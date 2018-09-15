@@ -1,0 +1,13 @@
+\A
+{APLICACIÓN DEL ALGORITMO EM (EXPECTATION-MAXIMIZATION)}
+{\Presenting{TULIA EVA SALCEDO PALACIOS}$^1$ $^2$\index{SALCEDO PALACIOS, T} y WILMER DARIO PINEDA RIOS$^1$ $^2$ $^3$\index{PINEDA RIOS, W}}
+{\Afilliation{$^1$UNIVERSIDAD SANTO TOMÁS, SEDE BOGOTÁ, COLOMBIA}
+\Afilliation{$^2$SEMILLERO DE INVESTIGACIÓN USTADISTICA}
+\Afilliation{$^3$UNIVERSIDAD NACIONAL DE COLOMBIA}
+\\\Email{tuliasalcedo@usantotomas.edu.co}}
+{algoritmo em; filtro de kalman; señal bancaria} 
+ {Economía} 
+ {Métodos bayesianos} 
+ {183} 
+ {370-1}
+{En estadística, el algoritmo de esperanza-maximización o EM es un método iterativo para encontrar las estimaciones por máxima verosimilitud o la probabilidad de un máximo a posteriori (MAP) de parámetros en modelos estadísticos, donde éste depende de variables latentes no observadas. Para el presente trabajo se ilustrará la utilización del algoritmo EM a través del paquete astsa para estimar la señal subyacente de la banca en Colombia, esto se hará a través de una recursión hacia atrás de un filtro de Kalman, que nos permite determinar los parámetros de un modelo dinámico lineal. Las series empleadas fueron la señal bancaria obtenida por (Saavedra et al. 2016), el IPI desestacionalizado y el IMACO, el sistema se describe mediante un modelo lineal y los ruidos de las mediciones se asumieron gaussianos para garantizar la convergencia a un máximo. Finalmente, empleando los hiperparámetros calculados mediante el algoritmo EM, se realizó el suavizado a fin de mostrar la tendencia de las series con un intervalo de confianza del 95\%. El algortimo EM es un proceso iterativo bastante práctico cuando se cuenta con variables no observadas, su simplicidad nos permitió en pocas líneas de código y con mucha rapidez calcular el conjunto de hiperparámetros que se buscaba hallar. Con estos datos se estimó la señal subyacente de la banca colombiana con la cual es posible llegar a conocer la interrelación entre las variables, ver los efectos que puede tener una sobre las otras variables analizadas, y generar pronósticos. Otros métodos empleados, como la inicialización difusa, suelen resultar incongruentes a la hora de justificar un estudio, ya que asumen varianzas infinitas al estado inicial con valores de magnitud observados finitos, con lo que el algoritmo EM no sólo ofrece una ventaja no sólo aplicativa sino también argumentativa.}

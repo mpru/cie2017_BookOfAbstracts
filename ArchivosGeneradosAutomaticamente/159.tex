@@ -1,0 +1,12 @@
+\A
+{HIERARCHICAL BAYESIAN ANALYSIS OF ALLELE-SPECIFIC GENE EXPRESSION DATA}
+{\Presenting{IGNACIO ALVAREZ-CASTRO}$^1$\index{ALVAREZ-CASTRO, I} y JARAD NIEMI$^2$\index{NIEMI, J}}
+{\Afilliation{$^1$IESTA-UDELAR}
+\Afilliation{$^2$IOWA STATE UNIVERSITY}
+\\\Email{nachalca@gmail.com}}
+{hierarchical models; allele-specific expression; full bayesian; shrinkage priors; multiple comparison; reference genome bias} 
+ {Genética} 
+ {Métodos bayesianos} 
+ {159} 
+ {336-1}
+{Diploid organisms have two copies of each gene (alleles) that can be separately transcribed. The RNA abundance associated of any particular allele is known as allele-specific expression (ASE). When two alleles have sequences of polymorphisms in transcribed regions, ASE can be studied with RNA-seq read count data. Reads counts that can be unambiguously attributed to a specific allele are positively associated with that alleles expression. In plant breeding, hybrids are developed to take advantage of the genetic phenomenon known as heterosis or hybrid vigor. Heterosis occurs when hybrid offspring possess superior levels of one or more traits relative to their inbred parents. ASE is relevant for the study of this phenomenon at the molecular level. One possible reason for the occurrence of heterosis are genes where two distinct alleles at a heterozygous locus are differentially expressed. ASE has some characteristics different from the regular RNA-seq expression: ASE cannot be assessed for every gene, measures of ASE can be biased towards one of the alleles (reference allele), and ASE provides two measures of expression for a single gene for each biological samples with leads to additional complications for single-gene models. We present statistical methods for modeling ASE and detecting genes with differential allele expression. We propose a hierarchical overdispersed Poisson model to deal with ASE counts. The model accommodates gene-specific overdispersion, it has an internal measure of the reference allele bias, and uses random effects to model the gene-specific regression parameters. Fully Bayesian inference is obtained using the fbseq package that implements a parallel strategy to make the computational times reasonable. Simulation and real data analysis suggest the proposed model is a practical and powerful tool for the study of differential ASE.}

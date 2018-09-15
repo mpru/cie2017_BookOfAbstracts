@@ -1,0 +1,40 @@
+\contentsline {section}{Preliminares}{9}{table.1}
+\contentsline {subsection}{Autoridades}{11}{section*.1}
+\contentsline {subsection}{Antecedentes}{13}{section*.1}
+\contentsline {section}{Comunicaciones orales}{15}{section*.1}
+\contentsline {subsection}{Control de procesos}{17}{section*.2}
+\contentsline {subsection}{Datos categ\IeC {\'o}ricos}{18}{section*.2}
+\contentsline {subsection}{Datos de duraci\IeC {\'o}n}{19}{section*.2}
+\contentsline {subsection}{Datos faltantes}{21}{section*.2}
+\contentsline {subsection}{Dise\IeC {\~n}o de experimentos}{22}{section*.2}
+\contentsline {subsection}{Estad\IeC {\'\i }stica espacial}{24}{section*.2}
+\contentsline {subsection}{Inferencia estad\IeC {\'\i }stica}{27}{section*.2}
+\contentsline {subsection}{M\IeC {\'e}todos bayesianos}{29}{section*.2}
+\contentsline {subsection}{M\IeC {\'e}todos multivariados}{33}{section*.2}
+\contentsline {subsection}{M\IeC {\'e}todos no param\IeC {\'e}tricos}{36}{section*.2}
+\contentsline {subsection}{Miner\IeC {\'\i }a de datos}{37}{section*.2}
+\contentsline {subsection}{Modelos de regresi\IeC {\'o}n}{39}{section*.2}
+\contentsline {subsection}{Muestreo}{43}{section*.2}
+\contentsline {subsection}{Probabilidad y procesos estoc\IeC {\'a}sticos}{48}{section*.2}
+\contentsline {subsection}{Series de tiempo}{49}{section*.2}
+\contentsline {subsection}{Teor\IeC {\'\i }a sobre distribuciones de probabilidad}{51}{section*.2}
+\contentsline {subsection}{Otras categor\IeC {\'\i }as metodol\IeC {\'o}gicas}{52}{section*.2}
+\contentsline {section}{P\IeC {\'o}sters}{63}{section*.2}
+\contentsline {subsection}{Datos categ\IeC {\'o}ricos}{65}{section*.3}
+\contentsline {subsection}{Datos de duraci\IeC {\'o}n}{67}{section*.3}
+\contentsline {subsection}{Datos faltantes}{69}{section*.3}
+\contentsline {subsection}{Dise\IeC {\~n}o de experimentos}{71}{section*.3}
+\contentsline {subsection}{Estad\IeC {\'\i }stica espacial}{76}{section*.3}
+\contentsline {subsection}{Inferencia estad\IeC {\'\i }stica}{81}{section*.3}
+\contentsline {subsection}{M\IeC {\'e}todos bayesianos}{87}{section*.3}
+\contentsline {subsection}{M\IeC {\'e}todos multivariados}{91}{section*.3}
+\contentsline {subsection}{M\IeC {\'e}todos no param\IeC {\'e}tricos}{105}{section*.3}
+\contentsline {subsection}{M\IeC {\'e}todos robustos}{106}{section*.3}
+\contentsline {subsection}{Miner\IeC {\'\i }a de datos}{107}{section*.3}
+\contentsline {subsection}{Modelos de regresi\IeC {\'o}n}{109}{section*.3}
+\contentsline {subsection}{Muestreo}{130}{section*.3}
+\contentsline {subsection}{Probabilidad y procesos estoc\IeC {\'a}sticos}{133}{section*.3}
+\contentsline {subsection}{Probabilidades }{134}{section*.3}
+\contentsline {subsection}{Series de tiempo}{135}{section*.3}
+\contentsline {subsection}{Otras categor\IeC {\'\i }as metodol\IeC {\'o}gicas}{137}{section*.3}
+\contentsline {section}{\IeC {\'I}ndice de autores}{160}{section*.3}

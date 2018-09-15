@@ -1,0 +1,11 @@
+Name	Chair	Day	DayLong	DayShort	DayTable	TimeBegin	TimeEnd	Room	Temas	Abstract1	Abstract2	Abstract3	Abstract4	Abstract5	Abstract6	Abstract7	NombreLargo
+O1	Persona1	2	Jueves 19 de octubre	Jueves 19	Jueves	10301	13001	Aula M	Minería de Datos. Estadística Espacial. Estadísticas Oficiales	19	47	71	117	119	126	130	Aula M: Minería de Datos. Estadística Espacial. Estadísticas Oficiales
+O2	Persona2	2	Jueves 19 de octubre	Jueves 19	Jueves	10301	13001	Aula N	Modelos de Regresión	6	68	82	85	120	134	186	Aula N: Modelos de Regresión
+O3	Persona3	2	Jueves 19 de octubre	Jueves 19	Jueves	10301	13001	Aula Ñ	Educación y Enseñanza	14	95	102	111	174	175	177	Aula Ñ: Educación y Enseñanza
+O4	Persona4	3	Viernes 20 de octubre	Viernes 20	Viernes	10301	13001	Aula M	Diseño de Experimentos.Control de Procesos. Inferencia Estadística	7	23	74	103	110	171	189	Aula M: Diseño de Experimentos.Control de Procesos. Inferencia Estadística
+O5	Persona5	3	Viernes 20 de octubre	Viernes 20	Viernes	10301	13001	Aula N	Datos de Duración. Datos Categóricos. Datos Faltantes	38	61	67	93	121	150	NA	Aula N: Datos de Duración. Datos Categóricos. Datos Faltantes
+O6	Persona6	3	Viernes 20 de octubre	Viernes 20	Viernes	10301	13001	Aula Ñ	Varios	55	73	92	129	156	164	173	Aula Ñ: Varios
+O7	Persona7	3	Viernes 20 de octubre	Viernes 20	Viernes	10301	13001	Aula O	Métodos Bayesianos. Teoría sobre Distribuciones de Probabilidad	32	37	39	113	123	135	153	Aula O: Métodos Bayesianos. Teoría sobre Distribuciones de Probabilidad
+O8	Persona8	3	Viernes 20 de octubre	Viernes 20	Viernes	14001	16001	Aula M	Probabilidad y Procesos Estocásticos	101	109	127	176	184	NA	NA	Aula M: Probabilidad y Procesos Estocásticos
+O9	Persona9	3	Viernes 20 de octubre	Viernes 20	Viernes	14001	16001	Aula N	Muestreo	41	78	143	144	145	148	NA	Aula N: Muestreo
+O10	Persona10	3	Viernes 20 de octubre	Viernes 20	Viernes	14001	16001	Aula Ñ	Métodos Multivariados. Métodos No Paramétricos	10	76	132	151	162	183	NA	Aula Ñ: Métodos Multivariados. Métodos No Paramétricos

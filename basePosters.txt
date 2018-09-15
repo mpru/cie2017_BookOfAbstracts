@@ -1,0 +1,16 @@
+Name	Chair	Day	DayLong	DayShort	DayTable	TimeBegin	TimeEnd	Room	Temas	Abstract1	Abstract2	Abstract3	Abstract4	Abstract5	Abstract6	Abstract7	Abstract8	Abstract9	Abstract10	NombreLargo
+P18	Persona1	3	Viernes 20 de octubre	Viernes 20	Viernes	10301	13001	SUM - Monitor 8	Aplicaciones Varias	1	4	20	33	40	44	45	52	83	NA	SUM - Monitor 8: Aplicaciones Varias
+P12	Persona2	3	Viernes 20 de octubre	Viernes 20	Viernes	10301	13001	SUM - Monitor 2	Genética. Ecología y Medio Ambiente. Otras Aplicaciones	16	18	25	36	77	89	104	118	146	NA	SUM - Monitor 2: Genética. Ecología y Medio Ambiente. Otras Aplicaciones
+P13	Persona3	3	Viernes 20 de octubre	Viernes 20	Viernes	10301	13001	SUM - Monitor 3	Economía	13	53	60	72	80	107	136	138	169	NA	SUM - Monitor 3: Economía
+P14	Persona4	3	Viernes 20 de octubre	Viernes 20	Viernes	10301	13001	SUM - Monitor 4	Educación, Ciencia y Cultura	17	34	51	57	122	154	161	179	NA	NA	SUM - Monitor 4: Educación, Ciencia y Cultura
+P15	Persona5	3	Viernes 20 de octubre	Viernes 20	Viernes	10301	13001	SUM - Monitor 5	Ciencias Agropecuarias	5	11	12	15	24	29	30	46	50	NA	SUM - Monitor 5: Ciencias Agropecuarias
+P17	Persona6	3	Viernes 20 de octubre	Viernes 20	Viernes	10301	13001	SUM - Monitor 7	Biología	58	66	70	84	96	97	98	99	NA	NA	SUM - Monitor 7: Biología
+P16	Persona7	3	Viernes 20 de octubre	Viernes 20	Viernes	10301	13001	SUM - Monitor 6	Ciencias Agropecuarias	49	105	133	141	147	168	172	180	NA	NA	SUM - Monitor 6: Ciencias Agropecuarias
+P11	Persona8	3	Viernes 20 de octubre	Viernes 20	Viernes	10301	13001	SUM - Monitor 1	Salud Humana	28	31	43	48	87	88	91	125	128	188	SUM - Monitor 1: Salud Humana
+P21	Persona9	3	Viernes 20 de octubre	Viernes 20	Viernes	14001	16001	SUM - Monitor 1	Sociología. Ciencias Sociales. Otras Aplicaciones	21	64	81	86	90	159	160	166	NA	NA	SUM - Monitor 1: Sociología. Ciencias Sociales. Otras Aplicaciones
+P22	Persona10	3	Viernes 20 de octubre	Viernes 20	Viernes	14001	16001	SUM - Monitor 2	Ciencias de la Salud. Ecología y Medio Ambiente	22	26	27	94	108	142	158	170	NA	NA	SUM - Monitor 2: Ciencias de la Salud. Ecología y Medio Ambiente
+P23	Persona11	3	Viernes 20 de octubre	Viernes 20	Viernes	14001	16001	SUM - Monitor 3	Ciencias Agropecuarias	116	131	137	139	140	149	167	190	NA	NA	SUM - Monitor 3: Ciencias Agropecuarias
+P24	Persona12	3	Viernes 20 de octubre	Viernes 20	Viernes	14001	16001	SUM - Monitor 4	Enseñanza de la Estadística. Ciencias Agropecuarias	2	35	42	152	155	178	181	182	NA	NA	SUM - Monitor 4: Enseñanza de la Estadística. Ciencias Agropecuarias
+P25	Persona13	3	Viernes 20 de octubre	Viernes 20	Viernes	14001	16001	SUM - Monitor 5	Salud Humana. Otras Aplicaciones	54	59	63	69	79	100	114	115	NA	NA	SUM - Monitor 5: Salud Humana. Otras Aplicaciones
+P26	Persona14	3	Viernes 20 de octubre	Viernes 20	Viernes	14001	16001	SUM - Monitor 6	Salud Humana. Estadísticas Oficiales	56	75	124	157	163	165	185	187	NA	NA	SUM - Monitor 6: Salud Humana. Estadísticas Oficiales
+P27	Persona15	3	Viernes 20 de octubre	Viernes 20	Viernes	14001	16001	SUM - Monitor 7	Economía	3	8	9	62	65	106	112	NA	NA	NA	SUM - Monitor 7: Economía

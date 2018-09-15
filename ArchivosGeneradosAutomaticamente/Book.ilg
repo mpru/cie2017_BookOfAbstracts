@@ -1,0 +1,7 @@
+This is makeindex, version 2.15 [MiKTeX 2.9.6350] (kpathsea + Thai support).
+Scanning style file ./index_style.ist......done (6 attributes redefined, 0 ignored).
+Scanning input file Book.idx....done (616 entries accepted, 0 rejected).
+Sorting entries.......done (5976 comparisons).
+Generating output file Book.ind....done (626 lines written, 0 warnings).
+Output written in Book.ind.
+Transcript written in Book.ilg.

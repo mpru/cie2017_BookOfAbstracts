@@ -1,0 +1,32 @@
+Name	Chair	Day	DayLong	DayShort	DayTable	Room	TimeBegin	TimeEnd	Abstract1	Abstract2	Abstract3	Abstract4	Abstract5	Abstract6	Abstract7	Abstract8	Abstract9	Abstract10	Abstract11	Abstract12	Abstract13	Abstract14	Abstract15	Abstract16	Abstract17	Abstract18	Abstract19	Abstract20	Abstract21	Abstract22	Abstract23	Abstract24	Abstract25	Abstract26	Abstract27	Abstract28	NombreLargo
+Comunicacion oral - Control de procesos	Chair1	1	1	1	1	1	10001	10011	46	35	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Control de procesos
+Comunicacion oral - Datos categóricos	Chair2	2	2	2	2	2	10002	10012	133	87	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Datos categóricos
+Comunicacion oral - Datos de duración	Chair3	3	3	3	3	3	10003	10013	31	44	56	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Datos de duración
+Comunicacion oral - Datos faltantes	Chair4	4	4	4	4	4	10004	10014	179	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Datos faltantes
+Comunicacion oral - Diseño de experimentos	Chair5	5	5	5	5	5	10005	10015	22	58	160	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Diseño de experimentos
+Comunicacion oral - Estadística espacial	Chair6	6	6	6	6	6	10006	10016	155	167	156	78	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Estadística espacial
+Comunicacion oral - Inferencia estadística	Chair7	7	7	7	7	7	10007	10017	27	83	106	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Inferencia estadística
+Comunicacion oral - Métodos bayesianos	Chair8	8	8	8	8	8	10008	10018	183	164	159	94	19	75	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Métodos bayesianos
+Comunicacion oral - Métodos multivariados	Chair9	9	9	9	9	9	10009	10019	109	162	62	185	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Métodos multivariados
+Comunicacion oral - Métodos no paramétricos	Chair10	10	10	10	10	10	10010	10020	128	92	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Métodos no paramétricos
+Comunicacion oral - Minería de datos	Chair11	11	11	11	11	11	10011	10021	68	97	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Minería de datos
+Comunicacion oral - Modelos de regresión	Chair12	12	12	12	12	12	10012	10022	23	142	100	188	127	17	177	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Modelos de regresión
+Comunicacion oral - Muestreo	Chair13	13	13	13	13	13	10013	10023	1	6	5	24	7	15	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Muestreo
+Comunicacion oral - Otras categorías metodológicas	Chair14	14	14	14	14	14	10014	10024	139	25	60	111	152	18	81	154	112	129	90	140	141	82	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Otras categorías metodológicas
+Comunicacion oral - Probabilidad y procesos estocásticos	Chair15	15	15	15	15	15	10015	10025	64	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Probabilidad y procesos estocásticos
+Comunicacion oral - Series de tiempo	Chair16	16	16	16	16	16	10016	10026	79	20	186	80	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Series de tiempo
+Comunicacion oral - Teoría sobre distribuciones de probabilidad	Chair17	17	17	17	17	17	10017	10027	151	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Teoría sobre distribuciones de probabilidad
+Poster - Biología	Chair18	18	18	18	18	18	10018	10028	50	114	104	180	108	144	71	34	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Biología
+Poster - Ciencias agropecuarias	Chair19	19	19	19	19	19	10019	10029	165	36	67	72	181	119	28	107	39	168	190	115	146	70	120	131	182	30	116	145	113	41	166	105	184	153	98	73	Ciencias agropecuarias
+Poster - Ecología y medio ambiente	Chair20	20	20	20	20	20	10020	10030	147	88	77	148	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Ecología y medio ambiente
+Poster - Economía	Chair21	21	21	21	21	21	10021	10031	65	4	132	173	49	3	121	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Economía
+Poster - Educación, ciencia y cultura	Chair22	22	22	22	22	22	10022	10032	170	55	13	149	110	93	169	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Educación, ciencia y cultura
+Poster - Enseñanza de la estadística	Chair23	23	23	23	23	23	10023	10033	29	89	178	26	42	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Enseñanza de la estadística
+Poster - Estadísticas oficiales	Chair24	24	24	24	24	24	10024	10034	125	66	172	187	12	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Estadísticas oficiales
+Poster - Genética	Chair25	25	25	25	25	25	10025	10035	43	85	33	8	84	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Genética
+Poster - Otras aplicaciones	Chair26	26	26	26	26	26	10026	10036	101	175	123	102	95	96	51	138	171	57	103	2	21	161	37	76	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Otras aplicaciones
+Poster - Otras ciencias de la salud	Chair27	27	27	27	27	27	10027	10037	122	135	130	32	10	189	54	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Otras ciencias de la salud
+Poster - Otras ciencias económicas, administración y negocios	Chair28	28	28	28	28	28	10028	10038	86	45	52	47	176	48	91	11	118	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Otras ciencias económicas, administración y negocios
+Poster - Otras ciencias sociales y humanas	Chair29	29	29	29	29	29	10029	10039	117	69	158	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Otras ciencias sociales y humanas
+Poster - Salud humana	Chair30	30	30	30	30	30	10030	10040	40	124	134	63	53	61	136	99	126	143	137	174	74	9	163	16	38	14	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Salud humana
+Poster - Sociología	Chair31	31	31	31	31	31	10031	10041	150	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Sociología

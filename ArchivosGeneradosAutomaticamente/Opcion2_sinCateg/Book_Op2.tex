@@ -1,0 +1,708 @@
+\documentclass[12pt,twoside,a4paper]{article}
+
+% -----------------------------------------------------------------------------------
+% PAQUETES UTILIZADOS
+% -----------------------------------------------------------------------------------
+
+\textheight 19.7 true cm
+\usepackage[utf8x]{inputenc}
+\usepackage{longtable}
+\usepackage[explicit]{titlesec}
+\usepackage[dvips]{epsfig}
+\usepackage{times}
+\usepackage{enumerate}
+\usepackage{multirow}
+\usepackage{colortbl}
+\usepackage{amsfonts}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usepackage[margin=1in]{geometry}
+\usepackage{tikz}
+\usepackage{etoolbox}
+\usepackage{float}
+
+% Esto lo agregue para que en el longtable del titulo de cada abstract pueda ocupar mas de un renglon
+\usepackage{array}
+\newcolumntype{C}{>{\centering\arraybackslash}}
+\renewcommand{\arraystretch}{1.5}
+\renewcommand{\tabcolsep}{0.2cm}
+\setlength{\LTpre}{6pt}
+\setlength{\LTpost}{6pt}
+
+\usepackage{array,booktabs,enumitem}% http://ctan.org/pkg/{array,booktabs,enumitem}
+% -----------------------------------------------------------------------------------
+% PARA EL INDICE DE AUTORES
+% -----------------------------------------------------------------------------------
+
+\usepackage{imakeidx}
+\indexsetup{othercode=\small}
+\makeindex[program=makeindex,columns=2,intoc=false,options={-s index_style.ist}]
+% intoc = false es para que el indice no aparezce en el table of contents, porque yo
+% le puse una pagina en blanco con Indice que aparezca manualmente
+% Esto es para que si en el indice hay uno que ocupa mas de una linea continue abajo sin dejar sangria
+\makeatletter
+\def\@idxitem{\par\hangindent 0pt}
+\makeatother
+% Esto es para definir el estilo de la primera pagina del indice, que tenga encabezado y pie de paginas como el resto
+\usepackage{fancyhdr}
+\fancypagestyle{plain}{%
+	\fancyhead{}
+	\fancyhead[LE,RO]{\textit{Índice de Autores}}
+	\fancyhead[RE,LO]{Congreso Interamericano de Estadística}
+	\fancyfoot{}
+	\fancyfoot[LE,RO]{\thepage}
+	\fancyfoot[RE,LO]{\small{\Footer}}
+	\renewcommand{\headrulewidth}{0.4pt}
+	\renewcommand{\footrulewidth}{0.4pt}
+}
+
+% Para la tabla de contenidos
+%\usepackage[tocflat]{tocstyle} % esto le da el estilo con puntos, pero lo de abajo lo deja mas lindo
+
+% esto es para que las subsecciones tengan sangria
+\makeatletter
+\def\@tocline#1#2#3#4#5#6#7{\relax
+  \ifnum #1>\c@tocdepth % then omit
+  \else
+    \par \addpenalty\@secpenalty\addvspace{#2}%
+    \begingroup \hyphenpenalty\@M
+    \@ifempty{#4}{%
+      \@tempdima\csname r@tocindent\number#1\endcsname\relax
+    }{%
+      \@tempdima#4\relax
+    }%
+    \parindent\z@ \leftskip#3\relax \advance\leftskip\@tempdima\relax
+    \rightskip\@pnumwidth plus4em \parfillskip-\@pnumwidth
+    #5\leavevmode\hskip-\@tempdima
+      \ifcase #1
+       \or\or \hskip 1em \or \hskip 2em \else \hskip 3em \fi%
+      #6\nobreak\relax
+    \dotfill\hbox to\@pnumwidth{\@tocpagenum{#7}}\par
+    \nobreak
+    \endgroup
+  \fi}
+\makeatother
+
+% -----------------------------------------------------------------------------------
+% PARA LOS NOMBRES DE LAS SESIONES DE ABSTRACTS
+% -----------------------------------------------------------------------------------
+
+% Esto es para que los nombres de las sesione salgan en negro
+\titleformat{\section}
+{\normalfont\Large\bfseries}{}{0em}{\colorbox{black}{\parbox{\dimexpr\textwidth-2\fboxsep\relax}{\textcolor{white}{\thesection\quad#1}}}}
+\titleformat{name=\section,numberless}
+{\normalfont\Large\bfseries}{}{0em}{\colorbox{black}{\parbox{\dimexpr\textwidth-2\fboxsep\relax}{\textcolor{white}{#1}}}}
+
+% -----------------------------------------------------------------------------------
+% INCORPORAR LO DEL ARCHIVO StyleAndData.tex
+% -----------------------------------------------------------------------------------
+
+% Este era uno de los generados por R, define variables a ser usadas
+% Pero en realidad fui mofificandolo a mi gusto, asi que lo incluyo aca
+% aunque no uso casi nada de esto
+
+% \input{StyleAndData.tex}
+\newcommand{\Style}{AS2012}
+\newcommand{\DocTitle}{\ }
+\newcommand{\DocTitleSubmitted}{Submitted ABSTRACTS}
+\newcommand{\DocTitleSubmittedAndAccepted}{Accepted ABSTRACTS}
+\newcommand{\DocTitleListByTopic}{Accepted ABSTRACTS}
+\newcommand{\DocTitleListByTopicAccepted}{Accepted ABSTRACTS}
+\newcommand{\DocYear}{2017}
+\newcommand{\DocConferenceTitleA}{\ }
+\newcommand{\DocConferenceTitleB}{Libro de Resúmenes}
+\newcommand{\DocDate}{17 al 20 de octubre 2017}
+\newcommand{\DocPlace}{Rosario, Argentina}
+\newcommand{\DocURL}{www.cie2017.s-a-e.org.ar/congreso.php}
+\newcommand{\DocOrganizer}{UNR}
+\newcommand{\DocPublisher}{UNR Editora}
+\newcommand{\DocEditors}{Marcos, Gonzalo}
+\newcommand{\DocPrinter}{Impresora}
+\newcommand{\DocCirculation}{200}
+\newcommand{\DocISBN}{sdfasfasdf}
+\newcommand{\DocISBNtwo}{}
+\newcommand{\DocCIP}{}
+\newcommand{\Footer}{17 al 20 de octubre 2017. Rosario, Argentina}
+\newcommand{\DocSponsors}{sponsor1\\ [2mm]sponsor2 \\ [2mm]}
+\newcommand{\DocScientificComm}{Cuesta, Cristina \> Mari, Gonzalo \\}
+\newcommand{\DocOrganizingComm}{Mendez, Nanda \> Boggio, Gabriela\\Otro, mas \> Uno, mas \\}
+\newcommand{\DocCenterPageTwo}{algo para poner aca?}
+\newcommand{\DocBottomPageTwo}{y aca?}
+\newcommand{\DocFigCover}{../../Graficos/logo_CIE}
+
+% -----------------------------------------------------------------------------------
+% COMANDOS QUE YA VENIAN Y QUE NO TOQUE
+% -----------------------------------------------------------------------------------
+
+% Algunos se usan, otros no
+
+\geometry{hmargin=1cm,vmargin=1cm}
+\def\width{15}
+\def\hauteur{25}
+
+\newcommand{\AbstractTitle}[1]{{\bf #1}\\}
+\newcommand{\AbstractAuthors}[1]{{\sl #1}\\}
+
+% Para setear los encabezados y pies de paginas
+\usepackage{fancyhdr}
+\newcommand{\SetHeader}[2]{
+	\fancyhead{}
+	\fancyhead[LE,RO]{\textit{#1}}
+	\fancyhead[RE,LO]{ #2}
+	\fancyfoot{}
+	\fancyfoot[LE,RO]{\thepage}
+	\fancyfoot[RE,LO]{\small{\Footer}}
+	\renewcommand{\headrulewidth}{0.4pt}
+	\renewcommand{\footrulewidth}{0.4pt}
+}
+
+% Esto no se para que es
+%\usepackage[colorlinks,
+%  pdfborder=0 0 0,
+%  pdfauthor={A. Blejec},
+%  pdfpagemode=UseOutline,
+%  pdfstartview=Fit,
+%  pdfpagelabels, pageanchor,
+%  bookmarks, bookmarksopen, bookmarksnumbered,
+%  citecolor= darkblue, linkcolor=blue, urlcolor=blue
+%]{hyperref}
+\usepackage{hyperref}
+\providecommand{\email}[1]{\href{mailto:#1}{\normalfont\tiny\texttt{#1}}}
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    \oddsidemargin  0.0in
+    \evensidemargin 0.0in
+    \textwidth      6.0in
+    \headheight     0.0in
+    \topmargin      -0.75in
+    \textheight=    10.0in
+    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+    
+%% Session name
+\newcommand{\Session}{Session name}
+
+%% Session date
+\providecommand{\Date}{Date of session}
+
+\raggedbottom
+%% Pages as full as possible
+\renewcommand{\textfraction}{0.1}
+\renewcommand{\topfraction}{0.9}
+\renewcommand{\floatpagefraction}{0.8}
+
+% -----------------------------------------------------------------------------------
+% COMANDOS QUE MODIFIQUE PARA Q SE AJUSTEN A LO NUESTRO
+% -----------------------------------------------------------------------------------
+
+% Para tener una separacion de rayitas entre abstracts
+\def\dashdotted{\xleaders\hbox to 1em{$- \cdot$}\hfill $-$}
+
+%\newcommand{\A}[9]{
+%% el original era un minipage pero no se corta en el salto de pagina
+%% lo mismo con parbox que tbm probe \parbox[t]{\linewidth}{}
+%% voy a usar el formato de longtable que si permite seguir en otra pag
+%% para eso modifique los comandos, en especial el de afiliaciones y mails
+%% para que vengan separados con \\
+%% R no me da indexado los emails a cada autor, y a la vez si la afiliacion es la misma
+%% no la repite, por lo cual ponerlo de otro modo seria muy dificil
+%%\begin{longtable}{m{\linewidth}}
+%%\begin{longtable}{c}
+%%\begin{longtable}{p{\linewidth}}
+%%	\large{\textbf{#1}} \\  %titulo
+%%	\textit{#2} \\			%autores
+%%	#3 \\					%afiliaciones y email
+%	%\multicolumn{1}{p{\linewidth}}{\small{#5}} %resumen, multicolumn es para que tenga su propia alineacion, la opcion p es para que permita ir hacia abajo			
+%%\end{longtable}
+%\begin{longtable}{Cp{0.9\linewidth}}
+%	\large{\textbf{#1}} \\  %titulo
+%	\textit{#2} \\			%autores
+%	#3 \\					%afiliaciones y email
+%	%\multicolumn{1}{p{\linewidth}}{\small{#5}} %resumen, multicolumn es para que tenga su propia alineacion, la opcion p es para que permita ir hacia abajo	
+%\end{longtable}
+%\parindent 0 pt
+%\small{#9}\\
+%\small{\textbf{Palabras claves: } #4} \\
+%}
+
+\newcommand{\A}[9]{
+\begin{table}[H]
+\centering
+\begin{tabular}{Cp{0.9\linewidth}}
+	\large{\textbf{#1}} \\  %titulo
+	\textit{#2} \\			%autores
+	#3 \\					%afiliaciones y email
+\end{tabular}
+\end{table}
+\nopagebreak %no hace nada!!
+\parindent 0 pt
+\small{#9}\\
+\small{\textbf{Palabras claves: } #4} \\
+}
+
+\newcommand{\Title}[1]{
+	\begin{center}	
+		\noindent		
+		\large{\textbf{#1}}
+	\end{center}
+	\par
+	%\vspace{0pt}
+}
+\newcommand{\Author}[1]{
+	\begin{center}
+		\noindent
+		\textit{#1}
+	\end{center}
+	\par
+}
+
+\newcommand{\AfilliationAndEmail}[1]{
+    %\begin{minipage}{\textwidth}
+	%\begin{center}     #1   \end{center}
+	#1    
+    %\end{minipage}
+    %\par
+    %\vspace{4pt}
+}
+
+\newcommand{\Afilliation}[1]{
+	\tiny{#1}.\ 
+}
+
+\newcommand{\Email}[1]{
+	\texttt{\email{#1}}
+}
+
+\newcommand{\Presenting}[1]{#1} % que no haga nada porque no distinguimos quien lo presenta
+
+%% Session as a section + toc
+\newcommand{\Section}[1]{
+	% \clearpage elimino esto para que no comience en una nueva hoja
+	\vspace{0.5cm}
+	\section*{#1}
+	\addcontentsline{toc}{subsection}{#1}
+}
+
+% -----------------------------------------------------------------------------
+% EMPEZAR DOCUMENTO
+% -----------------------------------------------------------------------------
+
+\begin{document}
+
+% -----------------------------------------------------------------------------
+% PAGINAS INICIALES
+% -----------------------------------------------------------------------------
+
+% \input{cover.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% PORTADA %%%%%%%%%%%%%%%%%%%%%%%%
+\thispagestyle{empty}
+
+% Fondo blanco con imagen que anda
+%{\center
+%{\Large \bf \DocConferenceTitleA} \\[14mm]
+%{\LARGE \bf \DocConferenceTitleB} \\ [6mm]
+%{\LARGE \bf \DocYear} \\ [20mm] %[34mm]
+%{\large \DocTitle} \\
+%\begin{center} \setlength{\unitlength}{1cm}
+%  \includegraphics[width=\linewidth,  clip]{\DocFigCover}
+%\end{center}
+%%\vfill
+%\vspace{3cm}
+%\DocDate \\ [3mm]
+%\DocPlace \\[3mm]%[3mm]
+%\DocURL \\
+%}
+
+\thispagestyle{empty}
+
+% Fondo hecho aparte
+{\center
+\tikz[remember picture,overlay] \node[opacity=1] at (current page.center){\includegraphics[width=\paperwidth,height=\paperheight]{../../../Programa/Graficos/portada2}};
+{\fontsize{30}{40} \bf LIBRO DE RESÚMENES} \\[14mm]
+\vspace{19cm}
+{\Huge\DocDate } \\ [3mm]
+{\Huge \DocPlace} \\[3mm]
+}
+
+\newpage
+\thispagestyle{empty}
+\input{empty.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%%%% PORTADA INTERNA %%%%%%%%%%%%%%%%%%%%%%%%
+
+\thispagestyle{empty}
+\setcounter{page}{1}
+\vspace*{5 mm}
+\begin{center} \setlength{\unitlength}{1cm}
+  \includegraphics[scale=0.1]{../../../Programa/Graficos/LOGO-UNR-NEGRO}
+\end{center}
+{\center
+\vspace*{6 mm}
+{\LARGE \bf Congreso Interamericano de Estadística} \\ [6mm]
+%{\LARGE \bf \DocYear} \\ [6mm]
+{\Huge PROGRAMA}  \\ [10mm]
+\vspace{2 mm}
+{\large XLV Coloquio Argentino de Estadística de la\\Sociedad Argentina de Estadística} \\
+{\large XXII Reunión Científica del Grupo Argentino de Biometría} \\
+{\large Jornadas del Instituto Interamericano de Estadística} \\
+\vspace{7 mm}
+{\large 17 al 20 de octubre de 2017} \\[3mm]
+{\large \DocPlace} \\[6mm]
+{\large \DocURL}\\[6mm]
+\vfill
+{\Large Organizado por:} \\ [3mm]
+}
+\vspace{3 mm}
+\begin{center} \setlength{\unitlength}{1cm}
+  \includegraphics[width=0.8\linewidth,  clip]{../../../Programa/Graficos/logos3}
+\end{center}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%% PAGINA PARA ISBN %%%%%%%%%%%%%%%%%%%%%%%%
+
+\newpage
+\thispagestyle{empty}
+
+\fbox{
+\parbox{0.9\textwidth}{%
+Apellido, Nombre \\
+\hspace*{2em} Libro de Resúmenes Congreso Interamericano de Estadística. - 1a ed.\\
+\hspace*{2em} Rosario: Editora, 2017. X p. ; 21x16 cm.\\
+\hspace*{2em} ISBN 000-000-0000-00-0 \\
+\hspace*{2em} 1. Estadísticas. I. Título. \\
+\hspace*{2em} CDD 310.4
+}
+}
+
+\bigbreak
+\footnotesize Fecha de catalogación: 01/01/2017
+
+\vfill
+
+\small{
+\noindent\textcopyright{} 2017 Congreso Interamericano de Estadística \\
+ISBN 000-000-0000-00-0
+
+\bigbreak
+\noindent\textbf {Publicado por:} \\
+Sociedad Argentina de Estadística \\
+Av. Corrientes 4264, 9° piso A \\
+C1195AAO Ciudad Autónoma de Buenos Aires
+
+\bigbreak
+\noindent\textbf {Compilado por:}\\
+Nombre Apellido \\
+email@gmail.com \\
+Rosario - Argentina
+
+\bigbreak
+\noindent\textbf {Organizadores del Congreso:} \\
+Sociedad Argentina de Estadística (SAE) \\
+Grupo Argentino de Biometría (GAB) \\
+Instituto Interamericano de Estadística (IASI)
+
+\bigbreak
+\noindent\textbf {Impresión:} \\
+Poner el nombre de la editora si se imprime
+\bigbreak
+\noindent Fecha de impresión: Octubre de 2017
+}
+
+% -----------------------------------------------------------------------------
+% DECLARACIONES DE INTERES
+% -----------------------------------------------------------------------------
+
+
+\newpage
+\noindent
+\thispagestyle{empty}
+%\setlength\parindent{16pt}
+%\SetHeader{Auspiciantes}{\textit{Congreso Interamericano de Estadística}}
+
+%\vspace*{1cm}
+%\centerline{\textbf{\LARGE{Auspiciantes}}}
+\vspace*{3cm}
+
+\begin{center}
+El {\bfseries Congreso Interamericano de Estadística}\\cuenta con las siguientes declaraciones de interés:\\ 
+%\vspace*{1.5cm}
+\end{center}
+
+\setlist[itemize]{leftmargin=0mm}
+
+\begin{longtable}{ p {.83\textwidth}}  
+
+\begin{itemize}
+\item[-] Declaración de Interés del Instituto Nacional de Estadística y Censos
+\item[-] Declaración de Interés Educativo del Ministerio de Educación de la Provincia de Santa Fe
+\item[-] Declaración de Interés del Instituto Provincial de Estadística y Censos
+\item[-] Declaración de Interés de la Cámara de Diputados de la Provincia de Santa Fe
+\item[-] Declaración de Interés del Concejo Municipal de la Municipalidad de Rosario
+\item[-] Declaración de Interés Académico del Consejo Superior de la Universidad Nacional de Rosario
+\item[-] Declaración de Interés Académico del Sr. Rector de la Universidad Nacional de Rosario
+\item[-] Declaración de Interés Académico del Consejo Directivo de la Facultad de Ciencias Económicas y Estadística
+\item[-] Declaración de Interés Académico de la Sra. Decana de la Facultad de Ciencias Económicas y Estadística
+\item[-] Declaración de Interés Institucional del Sr. Decano de la Facultad de Ciencias Agrarias
+\item[-] Declaración de Interés de la Dirección General de Estadística de la Municipalidad de Rosario
+\end{itemize}\\
+\end{longtable}
+
+
+\newpage
+\thispagestyle{empty}
+\input{empty.tex}
+
+% -----------------------------------------------------------------------------
+% AUSPICIANTES
+% -----------------------------------------------------------------------------
+
+
+\newpage
+\noindent
+\thispagestyle{empty}
+%\setlength\parindent{16pt}
+%\SetHeader{Auspiciantes}{\textit{Congreso Interamericano de Estadística}}
+
+%\vspace*{1cm}
+%\centerline{\textbf{\LARGE{Auspiciantes}}}
+\vspace*{1cm}
+\begin{center} \setlength{\unitlength}{1cm}
+	\noindent
+  \includegraphics[width=\linewidth,  clip]{../../../Programa/Graficos/logos}
+\end{center}
+
+\newpage
+\thispagestyle{empty}
+\input{empty.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%% CONTENIDO %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\newpage
+\thispagestyle{empty}
+\renewcommand{\contentsname}{Contenido}
+\tableofcontents
+
+\clearpage
+\newpage
+\thispagestyle{empty}
+\input{empty.tex}
+
+%%%%%%%%%%%%%%%%%%%%%%% PRELIMINARES %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\clearpage
+\newpage
+\noindent\\
+
+\thispagestyle{empty}
+ \begin{center}
+  \Large
+   % \textbf{Program} \\ [0.5cm]
+   \begin{flushright}
+   \vspace{17cm} {\Huge \em{ \textbf{PRELIMINARES}}} \\ [0.5cm]
+   \addcontentsline{toc}{section}{Preliminares}
+   \end{flushright}
+   \normalsize
+ \end{center}
+%\noindent  \hrulefill \\[0.5cm]
+\small
+\clearpage
+
+\newpage
+\thispagestyle{empty}
+\input{empty.tex}
+
+% -----------------------------------------------------------------------------
+% AUTORIDADES
+% -----------------------------------------------------------------------------
+
+\newpage
+\pagestyle{fancy}
+\setlength\parindent{16pt}
+\SetHeader{Autoridades}{\textit{Congreso Interamericano de Estadística}}
+
+\vspace*{1cm}
+\centerline{\textbf{\LARGE{Autoridades}}}
+\vspace{1cm}
+\addcontentsline{toc}{subsection}{Autoridades}
+
+
+\bigbreak
+
+% \par\hbox{\Large{\textbf{Comité Organizador Local}}}\hrule
+%\noindent {\Large\textbf{Comité Organizador Local}}
+%\bigbreak
+%\noindent \textbf {Presidente:} Cristina Cuesta. Facultad de Ciencias Económicas y Estadística. UNR \\
+%\textbf {Viceresidente:} Alberto Trevizán. Facultad de Ciencias Agrarias. UNR \\
+%\textbf {Miembros:} \\
+%Docentes de la Facultad de Ciencias Económicas y Estadística. UNR \\
+%Docentes de la Facultad de Ciencias Agrarias. UNR \\
+%Docentes de la Facultad de Ciencias Exactas, Ingeniería y Agrimensura. UNR \\
+
+\begin{table}[h]
+\begin{tabular}{p{2.5cm}p{12cm}}
+\textbf{Presidente}     & Cristina Cuesta. Facultad de Ciencias Económicas y Estadística. UNR        \\
+\textbf{Vicepresidente} & Alberto Trevizán. Facultad de Ciencias Agrarias. UNR                       \\
+\textbf{Miembros}       & Docentes de la Facultad de Ciencias Económicas y Estadística. UNR          \\
+\textbf{}               & Docentes de la Facultad de Ciencias Agrarias. UNR                          \\
+                        & Docentes de la Facultad de Ciencias Exactas, Ingeniería y Agrimensura. UNR
+\end{tabular}
+\end{table}
+
+\vspace{0.5cm}
+
+% \par\hbox{\Large{\textbf{Comité Científico}}}\hrule
+\noindent {\Large\textbf{Comité Científico}}
+\bigbreak
+
+\begin{multicols}{2}
+\noindent Arce, Osvaldo (UNT) \\
+Beltran, Celina (UNR) \\
+Barbona, Ivana (UNR) \\
+Blaconá, María Teresa (UNR) \\
+Boggio, Gabriela (UNR) \\
+Bussi, Javier (UNR) \\
+Casparri, María Teresa (UBA) \\
+Castro Kuriss, Claudia (ITBA) \\
+Cendoya, María Gabriela (UNMdP) \\
+Charre de Trabuchi, Clyde (IASI) \\
+Cosolito, Patricia (UNR) \\
+Cuesta, Cristina Beatriz (UNR) \\
+De Alba, Enrique (IASI) \\
+Diaz, María del Pilar (UNC) \\
+Di Blasi, Angela (UNCu) \\
+Di Rienzo, Julio (UNC) \\
+García, María del Carmen (UNR) \\
+Giménez, Laura (UNNE) \\
+Hachuel, Leticia (UNR) \\
+Kelmansky, Diana (UBA) \\
+Llera, Joaquín (UNC) \\
+Marí, Gonzalo (UNR) \\
+MacDonald, Alphonse (IASI) \\
+Mendez, Fernanda (UNR) \\
+Pagura, José A. (UNR) \\
+Quaglino, Marta (UNR) \\
+Quintslr, Marcia (IASI) \\
+Ricci, Lila (UNMdP) \\
+Rosa, Ernesto (UNTREF) \\
+Trevizan, Alberto (UNR) \\
+Urrutia, María Inés (UNLP) \\
+\end{multicols}
+
+\newpage
+\thispagestyle{empty}
+\input{empty.tex}
+
+% -----------------------------------------------------------------------------
+% ANTECEDENTES
+% -----------------------------------------------------------------------------
+
+\newpage
+\pagestyle{fancy}
+\setlength\parindent{16pt}
+\SetHeader{Antecedentes}{\textit{Congreso Interamericano de Estadística}}
+
+\vspace*{1cm}
+\centerline{\textbf{\LARGE{Antecedentes}}}
+\vspace*{1cm}
+%\par\hbox{\LARGE{\textbf{Antecedentes}}}\hrule
+\addcontentsline{toc}{subsection}{Antecedentes}
+
+
+\bigbreak
+
+\noindent \textbf{\textit{De la Escuela de Estadística de la UNR}}
+
+La carrera de Estadística de la Facultad de Ciencias Económicas y Estadística de la UNR fue creada en el año 1948 por iniciativa del Profesor Carlos Eugenio Dieulefait en la entonces Facultad de Ciencias Económicas de la Universidad Nacional del Litoral. Este evento significó un paso trascendental para la estadística de nuestro país ya que  fue la primera carrera en el área de Latinoamérica.
+
+A lo largo de su historia egresaron numerosos profesionales, de los cuales muchos se distinguieron en el país y en el extranjero desempeñándose en el ámbito académico, reparticiones públicas y privadas, en distintas áreas tales como  estadísticas oficiales, ciencias económicas, biología y salud, agronomía, industria, demografía, entre otras.
+
+Actualmente la carrera de grado, junto a la Maestría en Estadística Aplicada, creada en el año 2002, y el Doctorado en Estadística, creado en el año 2014, ambos de la UNR, forman parte de uno de los principales centros del país de reconocido prestigio, en formación de recursos humanos en el área. 
+Cabe señalar que la Escuela de Estadística posee una extensa trayectoria en investigación desarrollada en los institutos de investigaciones. Las tareas en investigación no sólo han enriquecido la formación docente, sino que también motivan la participación de los alumnos en las mismas. 
+
+Las actividades de transferencia, que se desarrollan a través de convenios firmados entre la Escuela de Estadística y organismos públicos y privados, permiten a docentes y estudiantes la vinculación con el medio y la resolución de problemas reales.
+Estas características y la evolución de los planes de estudio han permitido lograr un perfil de graduado de fácil inserción laboral en distintos ámbitos del país y del exterior, con posibilidades, además, de realizar con éxito estudios de posgrado en universidades nacionales y extranjeras.
+
+\bigbreak
+\noindent\textbf{\textit{Del Instituto Interamericano de Estadística}}
+
+El Instituto Interamericano de Estadística (IASI) fue fundado en el año 1940, a iniciativa de un grupo de miembros del Instituto Internacional de Estadística (ISI), interesados en mantener y desarrollar en la región americana actividades y programas que a nivel mundial venía llevando a cabo el ISI, y que se habían interrumpido a consecuencia de la II Guerra Mundial.
+
+El Instituto Interamericano de Estadística (IASI) es una organización profesional cuyo propósito es promover el desarrollo de la estadística en la región americana.  Persigue los siguientes objetivos: 
+
+(a) desarrollo y fortalecimiento de la profesión estadística;
+
+(b) promoción y divulgación de avances en teoría y métodos estadísticos;
+
+(c) perfeccionamiento de la metodología en la producción de estadísticas, tanto gubernamentales como no gubernamentales;
+
+(d) promoción de medidas que tiendan a mejorar la comparabilidad y el aprovechamiento de las estadísticas económicas y sociales entre las naciones de la región; y
+
+(e) colaboración con las organizaciones nacionales e internacionales en actividades orientadas al mejoramiento de la estadística en la región.
+
+\bigskip
+
+\bigbreak
+\noindent\textbf{\textit{De la Sociedad Argentina de Estadística}}
+
+La Sociedad Argentina de Estadística (SAE) es un organismo técnico - científico que promueve el desarrollo de la Estadística en el país. Fue creado en junio de 1952 y entre sus objetivos se encuentran: agrupar y vincular entre sí a todas las personas relacionadas con la Ciencia Estadística y con sus aplicaciones; fomentar y promover el estudio, investigación, desarrollo y perfeccionamiento de la Estadística y disciplinas conexas, mediante reuniones científicas y técnicas, cursos, becas, premios, concursos, publicaciones sin fines de lucro y otros medios adecuados; contribuir al mejoramiento de la enseñanza de la Estadística y mantener relaciones con instituciones afines, nacionales y extranjeras.
+
+Cada año la SAE organiza Coloquios que intercaladamente comparte con otros países de Latinoamérica.
+
+\bigbreak
+\noindent\textbf{\textit{Del Grupo Argentino de Biometría}}
+
+El Grupo Argentino de Biometría (GAB) nace en 1995, con el objeto de relacionar personas que investigan y/o enseñan aspectos de la estadística aplicada a la biología, promoviendo la investigación, la docencia y la difusión de estos conocimientos a través de diversas actividades científicas.
+
+Sus objetivos principales son: fortalecer y enriquecer los vínculos y propósitos que dieron origien al Grupo Argentino de Biometría (GAB); proveer un ámbito para el intercambio y discusión de ideas motivadoras e inspiradoras para la comunidad de biometristas; hacer público y difundir los resultados del trabajo de los biometrístas argentinos; promover y/o fortalecer la generación de vínculos inter instituciones; fortalecer la formación de recursos humanos y la actividad de los biometristas en la Argentina. 
+
+
+
+%---------------------------------------------------------------------------------
+% RESUMENES
+%---------------------------------------------------------------------------------
+
+\clearpage
+\newpage
+\addcontentsline{toc}{section}{Resúmenes}
+%\addcontentsline{toc}{section}{Comunicaciones orales}
+\input{abstracts.tex}
+
+\newpage
+\thispagestyle{empty}
+\input{empty.tex}
+
+%---------------------------------------------------------------------------------
+% INDICE DE AUTORES
+%---------------------------------------------------------------------------------
+
+\clearpage
+\newpage
+\noindent\\
+
+\thispagestyle{empty}
+ \begin{center}
+  \Large
+   % \textbf{Program} \\ [0.5cm]
+   \begin{flushright}
+   \vspace{17cm} {\Huge \em{ \textbf{ÍNDICE DE AUTORES}}} \\ [0.5cm]
+   \addcontentsline{toc}{section}{Índice de autores}
+   \end{flushright}
+   \normalsize
+ \end{center}
+
+
+\clearpage
+\SetHeader{Índice de Autores}{\textit{Congreso Interamericano de Estadística}}
+
+% Esto es para que el titulo del indice (que es el de una sesion) no aparezca en cuadarado negro como los de los abstracts
+\titleformat{name=\section,numberless}
+{\small}{}{0em}{{\parbox{\dimexpr\textwidth-2\fboxsep\relax}{#1}}}
+% Titulo vacio para que no aparezca nada
+\renewcommand\indexname{}
+
+
+  \small{\printindex}
+
+
+
+\newpage
+
+\end{document}

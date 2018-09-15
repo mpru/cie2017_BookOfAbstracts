@@ -1,0 +1,13 @@
+\A
+{PROJECTION PURSUIT CLASSIFICATION RANDOM FORESTS}
+{\Presenting{NATALIA DA SILVA}$^1$\index{DA SILVA, N}, DIANNE COOK$^2$\index{COOK, D} y LEE EUN-KYUNG$^3$\index{EUN-KYUNG, L}}
+{\Afilliation{$^1$IESTA, UDELAR}
+\Afilliation{$^2$MONASH UNIVERSITY}
+\Afilliation{$^3$EWHA WOMANS UNIVERSITY}
+\\\Email{ndasilva@iastate.edu}}
+{classification; projection pursuit; ensemble method; statistical visualization; interactive graphics; shiny app} 
+ {Otras aplicaciones} 
+ {Métodos no paramétricos} 
+ {128} 
+ {285-1}
+{A random forest is an ensemble learning method built on bagged trees with random predictor selection. These features provide improved classification models because they produce information about the variable importance, predictive error, and proximity of observations. A new ensemble learning method for classification problems called projection pursuit random forest (PPF) will be presented. PPF uses the PPtree algorithm introduced in Lee et al.(2013). In PPF, trees are constructed by splitting on linear combinations of randomly chosen variables. Projection pursuit is used to choose a projection of the variables that best separate the classes. Utilizing linear combinations of variables to separate classes takes the correlation between variables into account which allows PPF to outperform the traditional random forest when separations between groups occur in combinations of variables. Previous work using oblique trees in the forest construction have shown positive results in terms of performance but are only for two-class problems. The method presented here can be used in multi-class problems and is implemented into an R package, PPforest, which is available at https://github.com/natydasilva/PPforest. Additionally, a forest classifier is an example of an ensemble since it is produced by bagging multiple trees. The process of bagging and combining results from multiple trees produces numerous diagnostics which, with interactive graphics, can provide a lot of insight into class structure in high dimensions. Various aspects will be explored in this presentation, to assess model complexity, individual model contributions, variable importance and dimension reduction, and uncertainty in prediction associated with individual observations. The ideas are applied to the random forest algorithm and projection pursuit forest, but could be more broadly applied to other bagged ensembles. Interactive graphics are built in R using the ggplot2, plotly, and shiny packages.}

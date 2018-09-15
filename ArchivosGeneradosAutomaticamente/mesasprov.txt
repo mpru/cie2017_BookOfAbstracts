@@ -1,0 +1,53 @@
+
+
+
+\vspace*{1cm}
+\centerline{\textbf{\LARGE{\textcolor{ultramarine}{Mesas Redondas}}}}
+\vspace{1cm}
+
+\begin{itemize}
+\item \textbf{Mesa de Análisis de datos: Indicadores de malnutrición infantil en contextos de vulnerabilidad social y ambiental} \\
+Coordinadoras: Dra. Teresa Boca y Lic. Adriana Pérez \\
+Investigador responsable del ensayo: Dr. Pablo Núñez \\
+Analistas: Dra. María Soledad Fernández y Mg. Valentín Tassile
+
+\item \textbf{MESA REDONDA: DESAFÍOS ACTUALES QUE ENFRENTA LA ESTADÍSTICA OFICIAL} \\
+Organizadora: Lic. Clyde Charre de Trabuchi \\
+Moderador: Dr. Evelio O. Fabbroni\\
+Panelistas: Lic. Jorge Todesca (INDEC), Dr. Enrique de Alba (INEGI, IASI), Dra. Marcia Quintslr (IBGE, IASI) y Dr. Alphonse L. MacDonald (ABS)
+
+\item \textbf{Mesa de análisis "in situ": Modelos lineales generalizados mixtos con InfoStat} \\
+Dr. Julio Di Rienzo, Dr. Raúl Macchiavelli y Dr. Fernando Casanoves 
+
+\item \textbf{MESA REDONDA: DISCUSIÓN SOBRE PLANES DE ESTUDIO DE LICENCIATURAS EN ESTADÍSTICA DE LA REGIÓN} \\
+Orientado a estudiantes. \\
+Coordinadores: Mg. Nora Arnesi y Mg. Marcos Prunello \\
+Panelistas: Pablo Guzzi y Nicolás Dagosta (UNTREF), Yamila Rampello e Iván Millanes (UNR), Lucía Sepúlveda y Yohana Altez (UdelaR)
+\end{itemize}
+
+
+
+
+Te paso el resumen de la mesa de análisis in situ
+
+El objetivo de esta actividad es ofrecer un espacio de discusión sobre la práctica profesional del análisis de datos. En esta oportunidad mostramos aplicaciones diversas de los modelos lineales generalizados mixtos, implementados en la interfaz de InfoStat. La presentación incluye una breve introducción a los modelos lineales generalizados y generalizados mixtos y su aplicación en 6 ejemplos que incluyen una variedad de diseños y problemáticas relativas al ajuste e interpretación de los modelos lineales generalizados mixtos
+
+
+
+Organizadora: Clyde Charre de Trabuchi, Prsidente Electa del IASI
+
+Moderador: Evelio O. Fabbroni, Director Ejecutivo del IASI
+   
+Los panelistas y respectivos temas son los siguientes:
+
+1.	Jorge Todesca, Director del INDEC: "Los principios Fundamentales como guía para un sistema de estadísticas oficiales eficiente en una democracia".
+2.	Enrique de Alba, Vicepresidente del INEGI y Presidente del IASI: "Enfoque Bayesiano en las Estadísticas Oficiales".
+3.	Marcia María Melo Quintslr, IBGE y Vicepresidente del IASI: "La Estadística Oficial como Bien Público: el imprescindible diálogo con la sociedad".
+4.	Alphonse L. MacDonald, Consejero Principal (metodología) de la Oficina General de Estadística (ABS) de Suriname: "Big Data y las estadísticas oficiales". 
+
+
+MESA REDONDA
+
+En la Mesa de Análisis de Datos del Grupo Argentino de Biometría un mismo conjunto de datos son analizados por diferentes especialistas y sus resultados presentados frente a la audiencia. Este año estará orientada hacia un problema del área de Ciencias de la Salud. Los contextos de vulnerabilidad social impactan sobre los niños en etapas tempranas del desarrollo exponiéndolos a múltiples riesgos. Los indicadores de desnutrición infantil (retraso en el crecimiento y bajo peso) son esenciales para describir inequidades en la salud, e indagar sobre las condiciones de crecimiento y desarrollo de los niños. A su vez la obesidad y el sobrepeso (malnutrición por exceso) también representan una patología con impacto en la salud pública. En esta muestra se describen 50.000 registros antropométricos asociados a datos del sistema de salud en una provincia argentina. Interesa estudiar cómo se distribuyen estas problemáticas que impactan en las condiciones de crecimiento y desarrollo infantil de los sectores más vulnerables a diferentes niveles geográficos, su comportamiento en el tiempo y asociación con factores ambientales y sociales de riesgo para analizar hipótesis específicas, conocer escenarios actuales y proyecciones futuras.
+
+

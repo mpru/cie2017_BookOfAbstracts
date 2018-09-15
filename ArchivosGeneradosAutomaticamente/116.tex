@@ -1,0 +1,12 @@
+\A
+{IMPLEMENTACION DE HERRAMIENTAS PARA LA PREDICCION GENÓMICA EN INFOSTAT}
+{\Presenting{JULIO A DI RIENZO}$^1$\index{DI RIENZO, J}, PABLO A PACCIORETTI$^1$\index{PACCIORETTI, P} y FERNANDO CASANOVES$^2$\index{CASANOVES, F}}
+{\Afilliation{$^1$FACULTAD DE CIENCIAS AGROPECUARIAS, UNIVERSIDAD NACIONAL DE CÓRDOBA, ARGENTINA}
+\Afilliation{$^2$UNIDAD DE BIOMETRÍA/CENTRO AGRONÓMICO TROPICAL PARA LA ENSEÑANZA Y LA INVESTIGACIÓN (CATIE), COSTA RICA}
+\\\Email{dirienzo@agro.unc.edu.ar}}
+{snp; ridge regression; random forest; pls} 
+ {Ciencias agropecuarias} 
+ {Otras categorías metodológicas} 
+ {116} 
+ {250-2}
+{Se presenta un módulo para la predicción genómica implementado en el software estadístico InfoStat (www.infostat.com.ar). El módulo está orientado a la predicción de fenotipos a partir de marcadores SNPs. El módulo incluye un procedimiento para la lectura de SNPs desde archivos en formato .vcf, la selección de marcadores teniendo en cuenta la proporción de datos faltantes y la frecuencia del alelo menos frecuente e implementa un algoritmo para la imputación de datos faltantes. Los SNPs se evalúan en un conjunto de genotipos cuyos fenotipos han sido evaluados experimentalmente. InfoStat cuenta con herramientas de modelación avanzada que permiten obtener estimaciones del fenotipo esperado mediante el ajuste de modelos mixtos o generalizados mixtos en los diversos diseños utilizados en la fenotipificación. La predicción de valor genotípico a partir de los SNPs se implementa a través de tres técnicas de predicción: Ridge Regression, Random Forest y PLS. El procedimiento de calibración guarda una copia del predictor para su ulterior utilización. Una vez elegido el algoritmo de predicción, el módulo incluye un procedimiento para predecir fenotipos a partir de un genotipo dado. El procedimiento valida los SNPs disponibles en el predictor y en la muestra a predecir. El módulo permite evaluar el desempeño de las técnicas de predicción por validación cruzada. Para ello el algoritmo divide aleatoria (y reiteradamente) el conjunto de genotipos disponibles en muestras de entrenamiento (70\%) y validación (30\%), para tener una estimación de la capacidad predictiva y su precisión. Los algoritmos numéricos dependen de R y de las librerías vcfR, pls, randomForest y ridge.}

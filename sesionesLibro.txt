@@ -1,0 +1,35 @@
+Name	Chair	Day	DayLong	DayShort	DayTable	Room	TimeBegin	TimeEnd	Abstract1	Abstract2	Abstract3	Abstract4	Abstract5	Abstract6	Abstract7	Abstract8	Abstract9	Abstract10	Abstract11	Abstract12	Abstract13	Abstract14	Abstract15	Abstract16	Abstract17	Abstract18	Abstract19	Abstract20	Abstract21	Abstract22	Abstract23	Abstract24	Abstract25	Abstract26	Abstract27	Abstract28	Abstract29	Abstract30	NombreLargo
+Comunicacion oral - Control de procesos	Chair1	1	1	1	1	1	10001	10011	46	35	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Control de procesos
+Comunicacion oral - Datos categóricos	Chair2	2	2	2	2	2	10002	10012	133	87	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Datos categóricos
+Comunicacion oral - Datos de duración	Chair3	3	3	3	3	3	10003	10013	31	44	56	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Datos de duración
+Comunicacion oral - Datos faltantes	Chair4	4	4	4	4	4	10004	10014	179	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Datos faltantes
+Comunicacion oral - Diseño de experimentos	Chair5	5	5	5	5	5	10005	10015	22	58	160	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Diseño de experimentos
+Comunicacion oral - Estadística espacial	Chair6	6	6	6	6	6	10006	10016	155	167	156	78	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Estadística espacial
+Comunicacion oral - Inferencia estadística	Chair7	7	7	7	7	7	10007	10017	27	83	106	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Inferencia estadística
+Comunicacion oral - Métodos bayesianos	Chair8	8	8	8	8	8	10008	10018	183	164	159	94	19	75	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Métodos bayesianos
+Comunicacion oral - Métodos multivariados	Chair9	9	9	9	9	9	10009	10019	109	162	62	185	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Métodos multivariados
+Comunicacion oral - Métodos no paramétricos	Chair10	10	10	10	10	10	10010	10020	128	92	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Métodos no paramétricos
+Comunicacion oral - Minería de datos	Chair11	11	11	11	11	11	10011	10021	68	97	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Minería de datos
+Comunicacion oral - Modelos de regresión	Chair12	12	12	12	12	12	10012	10022	23	142	100	188	127	17	177	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Modelos de regresión
+Comunicacion oral - Muestreo	Chair13	13	13	13	13	13	10013	10023	1	6	5	24	7	15	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Muestreo
+Comunicacion oral - Otras categorías metodológicas	Chair14	14	14	14	14	14	10014	10024	139	25	60	111	152	18	81	154	112	129	90	140	141	82	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Otras categorías metodológicas
+Comunicacion oral - Probabilidad y procesos estocásticos	Chair15	15	15	15	15	15	10015	10025	64	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Probabilidad y procesos estocásticos
+Comunicacion oral - Series de tiempo	Chair16	16	16	16	16	16	10016	10026	79	20	186	80	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Series de tiempo
+Comunicacion oral - Teoría sobre distribuciones de probabilidad	Chair17	17	17	17	17	17	10017	10027	151	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Teoría sobre distribuciones de probabilidad
+Poster - Datos categóricos	Chair18	18	18	18	18	18	10018	10028	52	3	113	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Datos categóricos
+Poster - Datos de duración	Chair19	19	19	19	19	19	10019	10029	114	14	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Datos de duración
+Poster - Datos faltantes	Chair20	20	20	20	20	20	10020	10030	95	96	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Datos faltantes
+Poster - Diseño de experimentos	Chair21	21	21	21	21	21	10021	10031	85	53	50	190	115	146	26	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Diseño de experimentos
+Poster - Estadística espacial	Chair22	22	22	22	22	22	10022	10032	4	119	107	126	120	98	73	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Estadística espacial
+Poster - Inferencia estadística	Chair23	23	23	23	23	23	10023	10033	122	89	143	137	138	84	16	118	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Inferencia estadística
+Poster - Métodos bayesianos	Chair24	24	24	24	24	24	10024	10034	40	77	108	37	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Métodos bayesianos
+Poster - Métodos multivariados	Chair25	25	25	25	25	25	10025	10035	165	65	43	134	117	135	123	63	33	55	136	173	49	149	91	12	148	161	34	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Métodos multivariados
+Poster - Métodos no paramétricos	Chair26	26	26	26	26	26	10026	10036	39	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Métodos no paramétricos
+Poster - Métodos robustos	Chair27	27	27	27	27	27	10027	10037	72	121	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Métodos robustos
+Poster - Minería de datos	Chair28	28	28	28	28	28	10028	10038	163	105	76	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Minería de datos
+Poster - Modelos de regresión	Chair29	29	29	29	29	29	10029	10039	36	67	86	147	175	170	45	99	168	132	47	174	176	70	158	57	130	131	74	30	9	145	11	41	180	10	189	71	NA	NA	Modelos de regresión
+Poster - Muestreo	Chair30	30	30	30	30	30	10030	10040	69	187	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Muestreo
+Poster - Otras categorías metodológicas	Chair31	31	31	31	31	31	10031	10041	124	181	101	28	29	102	61	125	66	172	8	150	51	171	182	48	32	103	116	178	21	104	166	110	42	93	38	144	54	169	Otras categorías metodológicas
+Poster - Probabilidad y procesos estocásticos	Chair32	32	32	32	32	32	10032	10042	13	2	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Probabilidad y procesos estocásticos
+Poster - Probabilidades 	Chair33	33	33	33	33	33	10033	10043	184	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Probabilidades 
+Poster - Series de tiempo	Chair34	34	34	34	34	34	10034	10044	88	153	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	Series de tiempo

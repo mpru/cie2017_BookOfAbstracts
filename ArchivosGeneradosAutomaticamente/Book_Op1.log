@@ -1,0 +1,3846 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (MiKTeX 2.9.6350) (preloaded format=pdflatex 2017.6.4)  8 NOV 2017 10:05
+entering extended mode
+**./Book_Op1.tex
+(Book_Op1.tex
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 72 language(s) loaded.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\size12.clo"
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\tocloft\tocloft.sty
+Package: tocloft 2013/05/02 v2.3f parameterised ToC, etc., typesetting
+Package tocloft Info: The document has section divisions on input line 44.
+\cftparskip=\skip43
+\cftbeforetoctitleskip=\skip44
+\cftaftertoctitleskip=\skip45
+\cftbeforepartskip=\skip46
+\cftpartnumwidth=\skip47
+\cftpartindent=\skip48
+\cftbeforesecskip=\skip49
+\cftsecindent=\skip50
+\cftsecnumwidth=\skip51
+\cftbeforesubsecskip=\skip52
+\cftsubsecindent=\skip53
+\cftsubsecnumwidth=\skip54
+\cftbeforesubsubsecskip=\skip55
+\cftsubsubsecindent=\skip56
+\cftsubsubsecnumwidth=\skip57
+\cftbeforeparaskip=\skip58
+\cftparaindent=\skip59
+\cftparanumwidth=\skip60
+\cftbeforesubparaskip=\skip61
+\cftsubparaindent=\skip62
+\cftsubparanumwidth=\skip63
+\cftbeforeloftitleskip=\skip64
+\cftafterloftitleskip=\skip65
+\cftbeforefigskip=\skip66
+\cftfigindent=\skip67
+\cftfignumwidth=\skip68
+\c@lofdepth=\count87
+\c@lotdepth=\count88
+\cftbeforelottitleskip=\skip69
+\cftafterlottitleskip=\skip70
+\cftbeforetabskip=\skip71
+\cfttabindent=\skip72
+\cfttabnumwidth=\skip73
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\utf8x.def
+File: utf8x.def 2004/10/17 UCS: Input encoding UTF-8
+))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucs.sty
+Package: ucs 2013/05/11 v2.2 UCS: Unicode input support
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-global.def
+File: uni-global.def 2013/05/13 UCS: Unicode global data
+)
+\uc@secondtry=\count89
+\uc@combtoks=\toks16
+\uc@combtoksb=\toks17
+\uc@temptokena=\toks18
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\longtable.sty"
+Package: longtable 2014/10/28 v4.11 Multi-page Table package (DPC)
+\LTleft=\skip74
+\LTright=\skip75
+\LTpre=\skip76
+\LTpost=\skip77
+\LTchunksize=\count90
+\LTcapwidth=\dimen103
+\LT@head=\box26
+\LT@firsthead=\box27
+\LT@foot=\box28
+\LT@lastfoot=\box29
+\LT@cols=\count91
+\LT@rows=\count92
+\c@LT@tables=\count93
+\c@LT@chunks=\count94
+\LT@p@ftn=\toks19
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\titlesec.sty
+Package: titlesec 2016/03/21 v2.10.2 Sectioning titles
+\ttl@box=\box30
+\beforetitleunit=\skip78
+\aftertitleunit=\skip79
+\ttl@plus=\dimen104
+\ttl@minus=\dimen105
+\ttl@toksa=\toks20
+\titlewidth=\dimen106
+\titlewidthlast=\dimen107
+\titlewidthfirst=\dimen108
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\epsfig.sty"
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks21
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\graphics-cfg\graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvips.def on input line 99.
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\graphics-def\dvips.def
+File: dvips.def 2016/07/10 v3.1a Driver-dependent file (DPC,SPQR)
+))
+\Gin@req@height=\dimen109
+\Gin@req@width=\dimen110
+)
+\epsfxsize=\dimen111
+\epsfysize=\dimen112
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\times.sty"
+Package: times 2005/04/12 PSNFSS-v9.2a (SPQR) 
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\enumerate.sty"
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks22
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip80
+\multirow@cntb=\count95
+\multirow@dima=\skip81
+\bigstrutjot=\dimen113
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\colortbl\colortbl.sty
+Package: colortbl 2012/02/13 v1.0a Color table columns (DPC)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen114
+\extrarowheight=\dimen115
+\NC@list=\toks23
+\extratabsurround=\skip82
+\backup@length=\skip83
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\graphics-def\pdftex.def
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count96
+))
+\everycr=\toks24
+\minrowclearance=\skip84
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks25
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip85
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks26
+\ex@=\dimen116
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen117
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box31
+\strutbox@=\box32
+\big@size=\dimen118
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip10
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks27
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks28
+\eqnshift@=\dimen119
+\alignsep@=\dimen120
+\tagshift@=\dimen121
+\tagwidth@=\dimen122
+\totwidth@=\dimen123
+\lineht@=\dimen124
+\@envbody=\toks29
+\multlinegap=\skip86
+\multlinetaggap=\skip87
+\mathdisplay@stack=\toks30
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\frontendlayer\tikz.sty
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgf.sty
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfrcs.sty
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon.tex
+\pgfutil@everybye=\toks31
+\pgfutil@tempdima=\dimen125
+\pgfutil@tempdimb=\dimen126
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-co
+mmon-lists.tex))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfutil-la
+tex.def
+\pgfutil@abb=\box33
+ (C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\ms\everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfrcs.cod
+e.tex
+Package: pgfrcs 2015/08/07 v3.0.1a (rcs-revision 1.31)
+))
+Package: pgf 2015/08/07 v3.0.1a (rcs-revision 1.15)
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\basiclayer\pgfcore.sty
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\systemlayer\pgfsys.sty
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys.c
+ode.tex
+Package: pgfsys 2014/07/09 v3.0.1a (rcs-revision 1.48)
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex
+\pgfkeys@pathtoks=\toks32
+\pgfkeys@temptoks=\toks33
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeysfil
+tered.code.tex
+\pgfkeys@tmptoks=\toks34
+))
+\pgf@x=\dimen127
+\pgf@y=\dimen128
+\pgf@xa=\dimen129
+\pgf@ya=\dimen130
+\pgf@xb=\dimen131
+\pgf@yb=\dimen132
+\pgf@xc=\dimen133
+\pgf@yc=\dimen134
+\w@pgf@writea=\write3
+\r@pgf@reada=\read1
+\c@pgf@counta=\count109
+\c@pgf@countb=\count110
+\c@pgf@countc=\count111
+\c@pgf@countd=\count112
+\t@pgf@toka=\toks35
+\t@pgf@tokb=\toks36
+\t@pgf@tokc=\toks37
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgf.cfg
+File: pgf.cfg 2008/05/14  (rcs-revision 1.7)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-p
+dftex.def
+File: pgfsys-pdftex.def 2014/10/11  (rcs-revision 1.35)
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsys-c
+ommon-pdf.def
+File: pgfsys-common-pdf.def 2013/10/10  (rcs-revision 1.13)
+)))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsysso
+ftpath.code.tex
+File: pgfsyssoftpath.code.tex 2013/09/09  (rcs-revision 1.9)
+\pgfsyssoftpath@smallbuffer@items=\count113
+\pgfsyssoftpath@bigbuffer@items=\count114
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\systemlayer\pgfsyspr
+otocol.code.tex
+File: pgfsysprotocol.code.tex 2006/10/16  (rcs-revision 1.4)
+))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+LaTeX Info: Redefining \color on input line 709.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcore.c
+ode.tex
+Package: pgfcore 2010/04/11 v3.0.1a (rcs-revision 1.7)
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathcalc.cod
+e.tex
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathutil.cod
+e.tex)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathparser.c
+ode.tex
+\pgfmath@dimen=\dimen135
+\pgfmath@count=\count115
+\pgfmath@box=\box34
+\pgfmath@toks=\toks38
+\pgfmath@stack@operand=\toks39
+\pgfmath@stack@operation=\toks40
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.code.tex
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.basic.code.tex)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.trigonometric.code.tex)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.random.code.tex)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.comparison.code.tex)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.base.code.tex)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.round.code.tex)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.misc.code.tex)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfunction
+s.integerarithmetics.code.tex)))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmathfloat.co
+de.tex
+\c@pgfmathroundto@lastzeros=\count116
+))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepo
+ints.code.tex
+File: pgfcorepoints.code.tex 2013/10/07  (rcs-revision 1.27)
+\pgf@picminx=\dimen136
+\pgf@picmaxx=\dimen137
+\pgf@picminy=\dimen138
+\pgf@picmaxy=\dimen139
+\pgf@pathminx=\dimen140
+\pgf@pathmaxx=\dimen141
+\pgf@pathminy=\dimen142
+\pgf@pathmaxy=\dimen143
+\pgf@xx=\dimen144
+\pgf@xy=\dimen145
+\pgf@yx=\dimen146
+\pgf@yy=\dimen147
+\pgf@zx=\dimen148
+\pgf@zy=\dimen149
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2013/10/07  (rcs-revision 1.29)
+\pgf@path@lastx=\dimen150
+\pgf@path@lasty=\dimen151
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thusage.code.tex
+File: pgfcorepathusage.code.tex 2014/11/02  (rcs-revision 1.24)
+\pgf@shorten@end@additional=\dimen152
+\pgf@shorten@start@additional=\dimen153
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresc
+opes.code.tex
+File: pgfcorescopes.code.tex 2015/05/08  (rcs-revision 1.46)
+\pgfpic=\box35
+\pgf@hbox=\box36
+\pgf@layerbox@main=\box37
+\pgf@picture@serial@count=\count117
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoregr
+aphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2014/11/02  (rcs-revision 1.12)
+\pgflinewidth=\dimen154
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansformations.code.tex
+File: pgfcoretransformations.code.tex 2015/08/07  (rcs-revision 1.20)
+\pgf@pt@x=\dimen155
+\pgf@pt@y=\dimen156
+\pgf@pt@temp=\dimen157
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorequ
+ick.code.tex
+File: pgfcorequick.code.tex 2008/10/09  (rcs-revision 1.3)
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreob
+jects.code.tex
+File: pgfcoreobjects.code.tex 2006/10/11  (rcs-revision 1.2)
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+thprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2013/09/09  (rcs-revision 1.9)
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorear
+rows.code.tex
+File: pgfcorearrows.code.tex 2015/05/14  (rcs-revision 1.43)
+\pgfarrowsep=\dimen158
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoresh
+ade.code.tex
+File: pgfcoreshade.code.tex 2013/07/15  (rcs-revision 1.15)
+\pgf@max=\dimen159
+\pgf@sys@shading@range@num=\count118
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreim
+age.code.tex
+File: pgfcoreimage.code.tex 2013/07/15  (rcs-revision 1.18)
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoreex
+ternal.code.tex
+File: pgfcoreexternal.code.tex 2014/07/09  (rcs-revision 1.21)
+\pgfexternal@startupbox=\box38
+))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorela
+yers.code.tex
+File: pgfcorelayers.code.tex 2013/07/18  (rcs-revision 1.7)
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcoretr
+ansparency.code.tex
+File: pgfcoretransparency.code.tex 2013/09/30  (rcs-revision 1.5)
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\basiclayer\pgfcorepa
+tterns.code.tex
+File: pgfcorepatterns.code.tex 2013/11/07  (rcs-revision 1.5)
+)))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulesha
+pes.code.tex
+File: pgfmoduleshapes.code.tex 2014/03/21  (rcs-revision 1.35)
+\pgfnodeparttextbox=\box39
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmoduleplo
+t.code.tex
+File: pgfmoduleplot.code.tex 2015/08/03  (rcs-revision 1.13)
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-0-65.sty
+Package: pgfcomp-version-0-65 2007/07/03 v3.0.1a (rcs-revision 1.7)
+\pgf@nodesepstart=\dimen160
+\pgf@nodesepend=\dimen161
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\compatibility\pgfcomp-
+version-1-18.sty
+Package: pgfcomp-version-1-18 2007/07/23 v3.0.1a (rcs-revision 1.1)
+))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgffor.sty
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\utilities\pgfkeys.sty
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgfkeys.co
+de.tex))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\pgf\math\pgfmath.sty
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\utilities\pgffor.cod
+e.tex
+Package: pgffor 2013/12/13 v3.0.1a (rcs-revision 1.25)
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\math\pgfmath.code.te
+x)
+\pgffor@iter=\dimen162
+\pgffor@skip=\dimen163
+\pgffor@stack=\toks41
+\pgffor@toks=\toks42
+))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\t
+ikz.code.tex
+Package: tikz 2015/08/07 v3.0.1a (rcs-revision 1.151)
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\libraries\pgflibrary
+plothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2013/08/31 v3.0.1a (rcs-revision 1.20)
+\pgf@plot@mark@count=\count119
+\pgfplotmarksize=\dimen164
+)
+\tikz@lastx=\dimen165
+\tikz@lasty=\dimen166
+\tikz@lastxsaved=\dimen167
+\tikz@lastysaved=\dimen168
+\tikzleveldistance=\dimen169
+\tikzsiblingdistance=\dimen170
+\tikz@figbox=\box40
+\tikz@figbox@bg=\box41
+\tikz@tempbox=\box42
+\tikz@tempbox@bg=\box43
+\tikztreelevel=\count120
+\tikznumberofchildren=\count121
+\tikznumberofcurrentchild=\count122
+\tikz@fig@count=\count123
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\modules\pgfmodulemat
+rix.code.tex
+File: pgfmodulematrix.code.tex 2013/09/17  (rcs-revision 1.8)
+\pgfmatrixcurrentrow=\count124
+\pgfmatrixcurrentcolumn=\count125
+\pgf@matrix@numberofcolumns=\count126
+)
+\tikz@expandcount=\count127
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\generic\pgf\frontendlayer\tikz\l
+ibraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2008/06/17 v3.0.1a (rcs-revision 1.2)
+)))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifvtex.sty"
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count128
+\Gm@cntv=\count129
+\c@Gm@tempcnt=\count130
+\Gm@bindingoffset=\dimen171
+\Gm@wd@mp=\dimen172
+\Gm@odd@mp=\dimen173
+\Gm@even@mp=\dimen174
+\Gm@layoutwidth=\dimen175
+\Gm@layoutheight=\dimen176
+\Gm@layouthoffset=\dimen177
+\Gm@layoutvoffset=\dimen178
+\Gm@dimlist=\toks43
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\etoolbox\etoolbox.sty
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count131
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\float\float.sty"
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count132
+\float@exts=\toks44
+\float@box=\box44
+\@float@everytoks=\toks45
+\@floatcapt=\box45
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\lipsum\lipsum.sty
+Package: lipsum 2014/07/27 v1.3 150 paragraphs of Lorem Ipsum dummy text
+\c@lips@count=\count133
+)
+(wrapfig.sty
+\wrapoverhang=\dimen179
+\WF@size=\dimen180
+\c@WF@wrappedlines=\count134
+\WF@box=\box46
+\WF@everypar=\toks46
+Package: wrapfig 2003/01/31  v 3.6
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\koma-script\tocstyle.sty
+Package: tocstyle 2017/02/23 v0.2i-alpha KOMA-Script package (versatile toc sty
+les)
+
+
+Package tocstyle Warning: THIS IS AN ALPHA VERSION!
+(tocstyle)                USAGE OF THIS VERSION IS ON YOUR OWN RISK!
+(tocstyle)                EVERYTHING MAY HAPPEN!
+(tocstyle)                EVERYTHING MAY CHANGE IN FUTURE!
+(tocstyle)                THERE IS NO SUPPORT, IF YOU USE THIS PACKAGE!
+(tocstyle)                Maybe it would be better, not to load this package.
+
+\tocstyle@indentstyle=\count135
+Package tocstyle Info: no tocstyle.cfg found on input line 942.
+)
+exclude: 
+exclude: 
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\booktabs\booktabs.sty
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen181
+\lightrulewidth=\dimen182
+\cmidrulewidth=\dimen183
+\belowrulesep=\dimen184
+\belowbottomsep=\dimen185
+\aboverulesep=\dimen186
+\abovetopsep=\dimen187
+\cmidrulesep=\dimen188
+\cmidrulekern=\dimen189
+\defaultaddspace=\dimen190
+\@cmidla=\count136
+\@cmidlb=\count137
+\@aboverulesep=\dimen191
+\@belowrulesep=\dimen192
+\@thisruleclass=\count138
+\@lastruleclass=\count139
+\@thisrulewidth=\dimen193
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\enumitem\enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip88
+\enit@outerparindent=\dimen194
+\enit@toks=\toks47
+\enit@inbox=\box47
+\enitdp@description=\count140
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\imakeidx\imakeidx.sty
+Package: imakeidx 2016/10/15 v1.3e Package for typesetting indices in a synchro
+nous mode
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks48
+\XKV@tempa@toks=\toks49
+)
+\XKV@depth=\count141
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\tools\multicol.sty"
+Package: multicol 2017/04/11 v1.8q multicolumn formatting (FMi)
+\c@tracingmulticols=\count142
+\mult@box=\box48
+\multicol@leftmargin=\dimen195
+\c@unbalance=\count143
+\c@collectmore=\count144
+\doublecol@number=\count145
+\multicoltolerance=\count146
+\multicolpretolerance=\count147
+\full@width=\dimen196
+\page@free=\dimen197
+\premulticols=\dimen198
+\postmulticols=\dimen199
+\multicolsep=\skip89
+\multicolbaselineskip=\skip90
+\partial@page=\box49
+\last@line=\box50
+\maxbalancingoverflow=\dimen256
+\mult@rightbox=\box51
+\mult@grightbox=\box52
+\mult@gfirstbox=\box53
+\mult@firstbox=\box54
+\@tempa=\box55
+\@tempa=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\c@columnbadness=\count148
+\c@finalcolumnbadness=\count149
+\last@try=\dimen257
+\multicolovershoot=\dimen258
+\multicolundershoot=\dimen259
+\mult@nat@firstbox=\box72
+\colbreak@box=\box73
+\mc@col@check@num=\count150
+))
+\Book_Op1@idxfile=\write4
+\openout4 = `Book_Op1.idx'.
+
+
+Writing index file Book_Op1.idx
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyhdr\fancyhdr.sty
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip91
+\f@ncyO@elh=\skip92
+\f@ncyO@erh=\skip93
+\f@ncyO@olh=\skip94
+\f@ncyO@orh=\skip95
+\f@ncyO@elf=\skip96
+\f@ncyO@erf=\skip97
+\f@ncyO@olf=\skip98
+\f@ncyO@orf=\skip99
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\titlesec\ttlkeys.def
+File: ttlkeys.def 2016/03/15
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2017/03/14 v6.85a Hypertext links for LaTeX
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package hobsub Info: Skipping package `ifvtex' (already loaded).
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2017/03/19 v0.25 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen260
+\Hy@linkcounter=\count151
+\Hy@pagecounter=\count152
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2017/03/14 v6.85a Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count153
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\00miktex\hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4374.
+
+
+Package hyperref Warning: Invalid value `000'
+(hyperref)                for option `pdfborder'.
+(hyperref)                Option setting is ignored on input line 4374.
+
+
+Package hyperref Warning: Values of option `pdfpagemode':
+(hyperref)                * `UseNone'
+(hyperref)                * `UseOutlines'
+(hyperref)                * `UseThumbs'
+(hyperref)                * `FullScreen'
+(hyperref)                * `UseOC' (PDF 1.5)
+(hyperref)                * `UseAttachments' (PDF 1.6)
+(hyperref)                * An empty value disables the option.
+(hyperref)                Unknown value `UseOutline' on input line 4374.
+
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 4374.
+Package hyperref Info: Option `pageanchor' set `true' on input line 4374.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4374.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 4374.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 4374
+.
+Package hyperref Info: Hyper figures OFF on input line 4498.
+Package hyperref Info: Link nesting OFF on input line 4503.
+Package hyperref Info: Hyper index ON on input line 4506.
+Package hyperref Info: Plain pages OFF on input line 4513.
+Package hyperref Info: Backreferencing OFF on input line 4518.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4751.
+\c@Hy@tempcnt=\count154
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\url\url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5104.
+\XeTeXLinkMargin=\dimen261
+\Fld@menulength=\count155
+\Field@Width=\dimen262
+\Fld@charsize=\dimen263
+Package hyperref Info: Hyper figures OFF on input line 6358.
+Package hyperref Info: Link nesting OFF on input line 6363.
+Package hyperref Info: Hyper index ON on input line 6366.
+Package hyperref Info: backreferencing OFF on input line 6373.
+Package hyperref Info: Link coloring ON on input line 6376.
+Package hyperref Info: Link coloring with OCG OFF on input line 6383.
+Package hyperref Info: PDF/A mode OFF on input line 6388.
+LaTeX Info: Redefining \ref on input line 6428.
+LaTeX Info: Redefining \pageref on input line 6432.
+\Hy@abspage=\count156
+\c@Item=\count157
+\c@Hfootnote=\count158
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2017/03/14 v6.85a Hyperref driver for pdfTeX
+\Fld@listcount=\count159
+\c@bookmark@seq@number=\count160
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip100
+)
+(Book_Op1.aux)
+\openout1 = `Book_Op1.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 321.
+LaTeX Font Info:    ... okay on input line 321.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 321.
+LaTeX Font Info:    ... okay on input line 321.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 321.
+LaTeX Font Info:    ... okay on input line 321.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 321.
+LaTeX Font Info:    ... okay on input line 321.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 321.
+LaTeX Font Info:    ... okay on input line 321.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 321.
+LaTeX Font Info:    ... okay on input line 321.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 321.
+LaTeX Font Info:    ... okay on input line 321.
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 321.
+
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+) (C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\ucsencs.def
+File: ucsencs.def 2011/01/21 Fixes to fontencodings LGR, T3
+)
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count161
+\scratchdimen=\dimen264
+\scratchbox=\box74
+\nofMPsegments=\count162
+\nofMParguments=\count163
+\everyMPshowfont=\toks50
+\MPscratchCnt=\count164
+\MPscratchDim=\dimen265
+\MPnumerator=\count165
+\makeMPintoPDFobject=\count166
+\everyMPtoPDFconversion=\toks51
+) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+ABD: EveryShipout initializing macros
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(72.26999pt, 452.9679pt, 72.26999pt)
+* v-part:(T,H,B)=(72.26999pt, 700.50687pt, 72.26999pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=452.9679pt
+* \textheight=700.50687pt
+* \oddsidemargin=0.0pt
+* \evensidemargin=0.0pt
+* \topmargin=-37.0pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 321.
+Package tocstyle Info: prepare \l@part for redefinition on input line 321.
+LaTeX Font Info:    Try loading font information for U+msa on input line 321.
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsa.fd"
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 321.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\amsfonts\umsb.fd"
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 321.
+Package tocstyle Info: prepare \l@section for redefinition on input line 321.
+Package tocstyle Info: prepare \l@subsection for redefinition on input line 321
+.
+Package tocstyle Info: prepare \l@subsubsection for redefinition on input line 
+321.
+Package tocstyle Info: prepare \l@table for redefinition on input line 321.
+Package tocstyle Info: prepare \l@figure for redefinition on input line 321.
+\AtBeginShipoutBox=\box75
+Package hyperref Info: Link coloring ON on input line 321.
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files (x86)\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count167
+)
+LaTeX Info: Redefining \ref on input line 321.
+LaTeX Info: Redefining \pageref on input line 321.
+LaTeX Info: Redefining \nameref on input line 321.
+
+(Book_Op1.out) (Book_Op1.out)
+\@outlinefile=\write5
+\openout5 = `Book_Op1.out'.
+
+
+<portada2.png, id=784, 2070.23438pt x 3105.35156pt>
+File: portada2.png Graphic file (type png)
+ <use portada2.png>
+Package pdftex.def Info: portada2.png used on input line 352.
+(pdftex.def)             Requested size: 597.50957pt x 845.0425pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <30> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 354.
+
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-0.def
+File: uni-0.def 2013/05/13 UCS: Unicode data U+0000..U+00FF
+) [1
+Non-PDF special ignored!
+
+{C:/Users/marco/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <./portada2.
+png
+
+pdfTeX warning: pdflatex (file ./portada2.png): large interlaced PNG might caus
+e out of memory (use non-interlaced PNG to fix this)
+>]
+<../../../Programa/Graficos/LOGO-UNR-NEGRO.png, id=794, 765.6103pt x 775.39688p
+t>
+File: ../../../Programa/Graficos/LOGO-UNR-NEGRO.png Graphic file (type png)
+ <use ../../../Programa/Graficos/LOGO-UNR-NEGRO.png>
+Package pdftex.def Info: ../../../Programa/Graficos/LOGO-UNR-NEGRO.png used on 
+input line 373.
+(pdftex.def)             Requested size: 76.5655pt x 77.54422pt.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 377.
+
+<../../../Programa/Graficos/logos3.jpg, id=795, 688.82344pt x 160.34906pt>
+File: ../../../Programa/Graficos/logos3.jpg Graphic file (type jpg)
+
+<use ../../../Programa/Graficos/logos3.jpg>
+Package pdftex.def Info: ../../../Programa/Graficos/logos3.jpg used on input li
+ne 394.
+(pdftex.def)             Requested size: 362.37569pt x 84.35577pt.
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.399 \newpage
+               [1 <../../../Programa/Graficos/logos3.jpg> <../../../Programa/Gr
+aficos/LOGO-UNR-NEGRO.png>] [2] [3]
+
+pdfTeX warning: pdflatex (file ../../../Programa/Graficos/logos.pdf): PDF inclu
+sion: found PDF version <1.7>, but at most version <1.5> allowed
+<../../../Programa/Graficos/logos.pdf, id=810, 554.91318pt x 739.92432pt>
+File: ../../../Programa/Graficos/logos.pdf Graphic file (type pdf)
+
+<use ../../../Programa/Graficos/logos.pdf>
+Package pdftex.def Info: ../../../Programa/Graficos/logos.pdf used on input lin
+e 509.
+(pdftex.def)             Requested size: 452.9679pt x 603.98703pt.
+ [4 <../../../Programa/Graficos/logos.pdf>]
+Overfull \hbox (4.19106pt too wide) in paragraph at lines 546--546
+[]|\OT1/ptm/b/n/12 Vicepresidente| 
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 556.
+
+Underfull \hbox (badness 10000) in paragraph at lines 560--591
+
+ []
+
+[5] (Book_Op1.toc) [6] (Book_Op1.toc
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  7.22743pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 7.22743pt
+number indent calculated (toc, 1): 0.0pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 2.
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  7.22743pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 7.22743pt
+number indent calculated (toc, 1): 0.0pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+
+Overfull \hbox (17.75383pt too wide) in paragraph at lines 16--16
+ [][] [][]\OT1/ptm/m/n/6 IN-TRO-DUCCI[]ON A R-INLA. AJUSTE DE MO-DELOS ES-PA-CI
+-A-LES Y ES-PA-CI-O-TEM-PO-RA-LES A DA-TOS DE []AREA CON AP-LI-CA-CI-O-NES EN [
+]. 
+ []
+
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  7.22743pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 7.22743pt
+number indent calculated (toc, 1): 0.0pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  7.22743pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 7.22743pt
+number indent calculated (toc, 1): 0.0pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  7.22743pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 7.22743pt
+number indent calculated (toc, 1): 0.0pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  7.22743pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 7.22743pt
+number indent calculated (toc, 1): 0.0pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+[7]
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  7.22743pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 7.22743pt
+number indent calculated (toc, 1): 0.0pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+[8]
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+
+Overfull \hbox (4.28992pt too wide) in paragraph at lines 172--172
+ [][] [][]\OT1/ptm/m/n/6 PRO-MO-VIENDO EL DE-SAR-ROLLO DEL PEN-SA-MIENTO ESTAD[
+]ISTICO EN LA EDU-CACI[]ON ME-DIA A TRAV[]ES DEL ABOR-DAJE DE PRO-BLEM[]ATICAS 
+
+ []
+
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+
+Overfull \hbox (6.51035pt too wide) in paragraph at lines 201--201
+ [][] [][]\OT1/ptm/m/n/6 IN-TER-VA-LOS DE CON-FI-ANZA PARA LA RAZ[]ON COSTO-EFE
+CTIVIDAD: UNA COM-PA-RACI[]ON DE T[]ECNICAS PA-RAM[]ETRICAS Y NO PA-RAM[]ETRICA
+S 
+ []
+
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+[9]
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 2):  14.45377pt
+text indent by \l@... (toc, 2):  7.22743pt
+number indent by parent (toc, 2):  14.45377pt
+text indent calculated (toc, 2): 7.22743pt
+number indent calculated (toc, 2): 14.45377pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+
+Overfull \hbox (6.33636pt too wide) in paragraph at lines 238--238
+ [][] [][]\OT1/ptm/m/n/6 ESTU-DIO COM-PA-RA-TIVO DEL TE-GU-MENTO DE TRES VA-RIE
+-DA-DES DE AR-VEJAS CO-MER-CI-A-LI-ZA-DAS EN LA CI-U-DAD DE HU-MA-HU-ACA. AN[]A
+LISIS 
+ []
+
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 3):  28.90755pt
+text indent by \l@... (toc, 3):  7.22743pt
+number indent by parent (toc, 3):  28.90755pt
+text indent calculated (toc, 3): 7.22743pt
+number indent calculated (toc, 3): 28.90755pt
+number indent by \l@... (toc, 1):  0.0pt
+text indent by \l@... (toc, 1):  7.22743pt
+number indent by parent (toc, 1):  0.0pt
+text indent calculated (toc, 1): 7.22743pt
+number indent calculated (toc, 1): 0.0pt
+)
+\tf@toc=\write6
+\openout6 = `Book_Op1.toc'.
+
+ (conferencias.tex [10]
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24.88> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 8.
+[11
+
+]
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 17.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 27.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 27.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\\' on input line 27.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 33.
+
+Overfull \hbox (3.89325pt too wide) in paragraph at lines 41--42
+\OT1/ptm/m/n/10.95 Cada so-cie-dad mo-derna re-qui-ere in-for-maci[]on estad[]
+stica, no solo el go-bierno para de-sar-rol-lar sus pol[]ticas
+ []
+
+<./fotos/alphonse.jpg, id=1228, 186.09525pt x 255.95625pt>
+File: ./fotos/alphonse.jpg Graphic file (type jpg)
+
+<use ./fotos/alphonse.jpg>
+Package pdftex.def Info: ./fotos/alphonse.jpg used on input line 47.
+(pdftex.def)             Requested size: 90.5922pt x 124.59947pt.
+
+
+Package Fancyhdr Warning: \headheight is too small (12.0pt): 
+ Make it at least 14.49998pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[12
+
+ <./fotos/alphonse.jpg>]
+(C:\Users\marco\AppData\Roaming\MiKTeX\2.9\tex\latex\ucs\uni-32.def
+File: uni-32.def 2013/05/13 UCS: Unicode data U+2000..U+20FF
+)
+<./fotos/gutierrez.jpg, id=1235, 112.62074pt x 131.89275pt>
+File: ./fotos/gutierrez.jpg Graphic file (type jpg)
+
+<use ./fotos/gutierrez.jpg>
+Package pdftex.def Info: ./fotos/gutierrez.jpg used on input line 77.
+(pdftex.def)             Requested size: 90.5922pt x 106.09595pt.
+ [13
+
+ <./fotos/gutierrez.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
+
+ []
+
+[14
+
+] <./fotos/dani.jpg, id=1245, 150.5625pt x 151.16475pt>
+File: ./fotos/dani.jpg Graphic file (type jpg)
+
+<use ./fotos/dani.jpg>
+Package pdftex.def Info: ./fotos/dani.jpg used on input line 134.
+(pdftex.def)             Requested size: 90.5922pt x 90.95787pt.
+ [15
+
+ <./fotos/dani.jpg>]
+<./fotos/fabbroni.jpg, id=1250, 189.1065pt x 190.91325pt>
+File: ./fotos/fabbroni.jpg Graphic file (type jpg)
+
+<use ./fotos/fabbroni.jpg>
+Package pdftex.def Info: ./fotos/fabbroni.jpg used on input line 165.
+(pdftex.def)             Requested size: 90.5922pt x 91.45961pt.
+ [16
+
+ <./fotos/fabbroni.jpg>]
+<./fotos/cusumano.jpg, id=1255, 130.086pt x 182.48175pt>
+File: ./fotos/cusumano.jpg Graphic file (type jpg)
+
+<use ./fotos/cusumano.jpg>
+Package pdftex.def Info: ./fotos/cusumano.jpg used on input line 197.
+(pdftex.def)             Requested size: 90.5922pt x 127.08757pt.
+ [17
+
+ <./fotos/cusumano.jpg>]
+<./fotos/herrera.jpg, id=1260, 172.84575pt x 187.902pt>
+File: ./fotos/herrera.jpg Graphic file (type jpg)
+
+<use ./fotos/herrera.jpg>
+Package pdftex.def Info: ./fotos/herrera.jpg used on input line 231.
+(pdftex.def)             Requested size: 90.5922pt x 98.48372pt.
+ [18
+
+ <./fotos/herrera.jpg>]
+<./fotos/marcia.jpg, id=1266, 197.538pt x 274.626pt>
+File: ./fotos/marcia.jpg Graphic file (type jpg)
+ <use ./fotos/marcia.jpg>
+Package pdftex.def Info: ./fotos/marcia.jpg used on input line 261.
+(pdftex.def)             Requested size: 90.5922pt x 125.94815pt.
+
+[19
+
+ <./fotos/marcia.jpg>]
+<./fotos/scavino.jpg, id=1271, 149.96025pt x 168.63pt>
+File: ./fotos/scavino.jpg Graphic file (type jpg)
+
+<use ./fotos/scavino.jpg>
+Package pdftex.def Info: ./fotos/scavino.jpg used on input line 293.
+(pdftex.def)             Requested size: 90.5922pt x 101.8735pt.
+ [20
+
+ <./fotos/scavino.jpg>]
+<./fotos/tauber.jpg, id=1276, 189.1065pt x 172.2435pt>
+File: ./fotos/tauber.jpg Graphic file (type jpg)
+
+<use ./fotos/tauber.jpg>
+Package pdftex.def Info: ./fotos/tauber.jpg used on input line 328.
+(pdftex.def)             Requested size: 90.5922pt x 82.51561pt.
+ [21
+
+ <./fotos/tauber.jpg>]
+<./fotos/teran.jpg, id=1281, 198.7425pt x 225.84375pt>
+File: ./fotos/teran.jpg Graphic file (type jpg)
+ <use ./fotos/teran.jpg>
+Package pdftex.def Info: ./fotos/teran.jpg used on input line 358.
+(pdftex.def)             Requested size: 90.5922pt x 102.9486pt.
+) (cursos.tex [22
+
+ <./fotos/teran.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+[23
+
+]
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 17.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 27.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 27.
+
+<./fotos/chris.jpg, id=1290, 187.29974pt x 263.18324pt>
+File: ./fotos/chris.jpg Graphic file (type jpg)
+
+<use ./fotos/chris.jpg>
+Package pdftex.def Info: ./fotos/chris.jpg used on input line 45.
+(pdftex.def)             Requested size: 90.5922pt x 127.29434pt.
+ [24
+
+ <./fotos/chris.jpg>]
+File: ./fotos/marcia.jpg Graphic file (type jpg)
+ <use ./fotos/marcia.jpg>
+Package pdftex.def Info: ./fotos/marcia.jpg used on input line 79.
+(pdftex.def)             Requested size: 90.5922pt x 125.94815pt.
+
+[25
+
+]
+Overfull \hbox (2.23962pt too wide) in paragraph at lines 104--105
+\OT1/ptm/m/n/10.95 El en-fo-que Bay-e-si-ano re-sulta par-ti-cu-lar-mente []uti
+l para mo-deli-zar con-jun-tos de da-tos es-pa-ci-a-les y espacio-
+ []
+
+<./fotos/ugarte.jpg, id=1300, 195.73125pt x 235.47975pt>
+File: ./fotos/ugarte.jpg Graphic file (type jpg)
+
+<use ./fotos/ugarte.jpg>
+Package pdftex.def Info: ./fotos/ugarte.jpg used on input line 109.
+(pdftex.def)             Requested size: 90.5922pt x 108.99031pt.
+ [26
+
+ <./fotos/ugarte.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 135--136
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 137--139
+
+ []
+
+) (talleres.tex [27
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+[28
+
+]
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 17.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 22.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 22.
+
+File: ./fotos/alphonse.jpg Graphic file (type jpg)
+<use ./fotos/alphonse.jpg>
+Package pdftex.def Info: ./fotos/alphonse.jpg used on input line 38.
+(pdftex.def)             Requested size: 90.5922pt x 124.59947pt.
+ [29
+
+]
+<./fotos/sabino.jpg, id=1317, 151.767pt x 156.585pt>
+File: ./fotos/sabino.jpg Graphic file (type jpg)
+ <use ./fotos/sabino.jpg>
+Package pdftex.def Info: ./fotos/sabino.jpg used on input line 65.
+(pdftex.def)             Requested size: 90.5922pt x 93.46669pt.
+
+[30
+
+ <./fotos/sabino.jpg>]
+File: ./fotos/tauber.jpg Graphic file (type jpg)
+ <use ./fotos/tauber.jpg>
+Package pdftex.def Info: ./fotos/tauber.jpg used on input line 90.
+(pdftex.def)             Requested size: 90.5922pt x 82.51561pt.
+
+<./fotos/santellan.jpg, id=1323, 98.16675pt x 168.63pt>
+File: ./fotos/santellan.jpg Graphic file (type jpg)
+
+<use ./fotos/santellan.jpg>
+Package pdftex.def Info: ./fotos/santellan.jpg used on input line 92.
+(pdftex.def)             Requested size: 90.5922pt x 155.62006pt.
+) (mesas.tex [31
+
+ <./fotos/santellan.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+[32
+
+]
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 17.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 21.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 21.
+
+LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <10.95> not available
+(Font)              Font shape `OT1/ptm/b/it' tried instead on input line 27.
+[33
+
+]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 55.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\omsptm.fd"
+File: omsptm.fd 
+)
+LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 55.
+
+Overfull \hbox (4.10095pt too wide) in paragraph at lines 56--57
+[]\OT1/ptm/m/n/10.95 Enrique de Alba, Vi-ce-pre-si-dente del IN-EGI y Pre-si-de
+nte del IASI: "En-fo-que Bay-e-si-ano en las Estad[]sticas
+ []
+
+[34
+
+] [35
+
+]) (concursos.tex [36
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 3--5
+
+ []
+
+[37
+
+]
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 17.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 17.
+
+
+Package hyperref Warning: Difference (2) between bookmark levels is greater 
+(hyperref)                than one, level fixed on input line 21.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 21.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+[38
+
+]
+Underfull \hbox (badness 10000) in paragraph at lines 66--67
+
+ []
+
+) [39
+
+] (abstracts_Def.tex
+Underfull \hbox (badness 10000) in paragraph at lines 1--3
+
+ []
+
+[40
+
+]
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 24.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 24.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 24.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 24.
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 44.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 45.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 45.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 45.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 45.
+
+(46.tex
+LaTeX Font Info:    Try loading font information for OT1+pcr on input line 12.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1pcr.fd"
+File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
+))
+Overfull \hbox (0.60837pt too wide) detected at line 47
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(35.tex) [41
+
+
+] (87.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 12.
+
+) (31.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 57
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[42] (44.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 59
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[43] (56.tex) (179.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 12.
+
+) [44] (22.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 67
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[45] (58.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 69
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(160.tex) [46] (155.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 14.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 74
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(167.tex [47])
+Overfull \hbox (0.60837pt too wide) detected at line 76
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(156.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 78
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[48] (78.tex) (27.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 12.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 83
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[49] (83.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 85
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(106.tex) [50] (183.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 13.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 90
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(164.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 92
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[51] (159.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 94
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(94.tex [52])
+Overfull \hbox (0.60837pt too wide) detected at line 98
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(75.tex) [53] (162.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 103
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(62.tex [54])
+Overfull \hbox (0.60837pt too wide) detected at line 105
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(185.tex) [55] (128.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 13.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 110
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(92.tex)
+Overfull \hbox (8.33882pt too wide) in paragraph at lines 13--113
+[]\OT1/ptm/m/n/10.95 Introdu[][]ao O mu-nic[]pio bra-si-leiro de Go-ver-na-dor
+ Va-la-dares []e his-to-ri-ca-mente im-pac-tado pe-las i- nunda[][]oes
+ []
+
+[56] (68.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 12.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 115
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[57] (97.tex) (23.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 120
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[58] (142.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 122
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(100.tex [59])
+Overfull \hbox (0.60837pt too wide) detected at line 124
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(188.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 126
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[60] (127.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 128
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(17.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 130
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[61] (177.tex) (1.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 13.
+
+[62])
+Overfull \hbox (0.60837pt too wide) detected at line 135
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(6.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 137
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[63] (5.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 139
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[64] (24.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 141
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(7.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 143
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[65] (15.tex) (64.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+[66]) (79.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 151
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[67] (20.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 153
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(186.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 155
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[68] (80.tex) (151.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 12.
+
+) [69] (139.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 163
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[70] (25.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 165
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(60.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 167
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[71] (111.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 169
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[72] (152.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 171
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(81.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 175
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[73] (112.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 179
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[74] (129.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 181
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(90.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 183
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[75] (140.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 185
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[76] (141.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 187
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(82.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 189
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+
+Overfull \hbox (0.5974pt too wide) in paragraph at lines 12--189
+\OT1/ptm/b/n/10.95 Palabras cla-ves:  \OT1/ptm/m/n/10.95 re-so-luci[]on de pro-
+ble-mas; ci-clo pp-dac; in-di-ca-do-res; tex-tos de pro-ba-bi-li-dad y estad[]
+stica 
+ []
+
+[77] [78]
+Underfull \hbox (badness 10000) in paragraph at lines 194--196
+
+ []
+
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 213.
+
+(50.tex [79])
+Overfull \hbox (0.60837pt too wide) detected at line 215
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(114.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 217
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[80] (104.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 219
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[81] (180.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 221
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+
+Overfull \hbox (7.19994pt too wide) in paragraph at lines 11--221
+[]\OT1/ptm/m/n/10.95 Tradicionalmente, en la cien-cias biol[]ogicas, los da-tos
+ com-por-ta-men-ta-les se ana-li-za-ban uti-li-zando ANOVA.
+ []
+
+(108.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 223
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[82] (144.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 225
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[83] (71.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 227
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(34.tex) [84] (165.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 13.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 232
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(36.tex [85])
+Overfull \hbox (0.60837pt too wide) detected at line 234
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(67.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 236
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[86] (72.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 238
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(181.tex [87])
+Overfull \hbox (0.60837pt too wide) detected at line 240
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(119.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 242
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[88] (28.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 244
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(107.tex [89])
+Overfull \hbox (0.60837pt too wide) detected at line 246
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(39.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 248
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[90] (168.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 250
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(190.tex [91])
+Overfull \hbox (0.60837pt too wide) detected at line 252
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(115.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 254
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[92] (146.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 256
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(70.tex [93])
+Overfull \hbox (0.60837pt too wide) detected at line 258
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(120.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 260
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[94] (131.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 262
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(182.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 264
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[95] (30.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 266
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(116.tex [96])
+Overfull \hbox (0.60837pt too wide) detected at line 268
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(145.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 270
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(113.tex [97])
+Overfull \hbox (0.60837pt too wide) detected at line 272
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(41.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 274
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[98] (166.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 276
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(105.tex [99])
+Overfull \hbox (0.60837pt too wide) detected at line 278
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(184.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 280
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[100] (153.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 282
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[101] (98.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 284
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(73.tex [102]) (147.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 12.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 289
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[103] (88.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 291
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[104] (77.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 293
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(148.tex) [105] (65.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 298
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(4.tex [106])
+Overfull \hbox (0.60837pt too wide) detected at line 300
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(132.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 302
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+
+Overfull \hbox (0.33432pt too wide) in paragraph at lines 12--302
+\OT1/ptm/b/n/10.95 Palabras cla-ves:  \OT1/ptm/m/n/10.95 mo-delo gra-vi-ta-ci-o
+-nal; co-mer-cio; ali-men-tos pesque-ros; di-fe-ren-ci-aci[]on; eco-etiquetado;
+
+ []
+
+[107] (173.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 304
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(49.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 306
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[108] (3.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 308
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[109] (121.tex) (170.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+[110])
+Overfull \hbox (0.60837pt too wide) detected at line 313
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(55.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 315
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[111] (13.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 317
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[112] (149.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 319
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(110.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 321
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[113] (93.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 323
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[114] (169.tex) (29.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 328
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[115] (89.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 330
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[116] (178.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 332
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(26.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 334
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+
+Overfull \hbox (4.65926pt too wide) in paragraph at lines 14--334
+[]\OT1/ptm/m/n/10.95 Los re-cur-sos did[]acticos usu-al-mente uti-li-za-dos par
+a la ense[]nanza de estad[]stica est[]an en-fo-ca-dos en c[]alculos
+ []
+
+[117] (42.tex) [118] (125.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 14.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 339
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(66.tex [119])
+Overfull \hbox (0.60837pt too wide) detected at line 341
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(172.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 343
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[120] (187.tex) [121] (43.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 13.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 348
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[122] (85.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 350
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[123] (33.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 352
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(8.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 354
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[124] (84.tex) [125] (40.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 359
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(124.tex [126])
+Overfull \hbox (0.60837pt too wide) detected at line 361
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(134.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 363
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[127] (63.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 365
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(53.tex [128])
+Overfull \hbox (0.60837pt too wide) detected at line 367
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(61.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 369
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[129] (136.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 371
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(99.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 375
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[130] (126.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 377
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[131] (143.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 379
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(137.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 381
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[132] (174.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 383
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[133] (74.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 385
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(9.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 387
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[134] (163.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 389
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[135] (16.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 391
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(38.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 393
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[136] (14.tex) [137] (150.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+) (122.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 12.
+
+[138])
+Overfull \hbox (0.60837pt too wide) detected at line 401
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(135.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 403
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[139] (130.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 405
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(32.tex [140])
+Overfull \hbox (0.60837pt too wide) detected at line 407
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(10.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 409
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[141] (189.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 411
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[142] (54.tex) [143] (86.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 11.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 416
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(45.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 418
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[144] (52.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 420
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(47.tex [145])
+Overfull \hbox (0.60837pt too wide) detected at line 422
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(176.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 424
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[146] (48.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 426
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(91.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 428
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[147] (11.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 430
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[148] (192.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 432
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(118.tex [149]) (117.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 13.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 437
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[150] (69.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 439
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[151] (158.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 441
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(191.tex) [152] (101.tex
+
+Package hyperref Warning: The anchor of a bookmark and its parent's must not
+(hyperref)                be the same. Added a new anchor on input line 12.
+
+)
+Overfull \hbox (0.60837pt too wide) detected at line 446
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(175.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 448
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[153] (123.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 450
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(102.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 452
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[154] (95.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 454
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[155] (96.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 456
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(51.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 458
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[156] (138.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 460
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(171.tex [157])
+Overfull \hbox (0.60837pt too wide) detected at line 462
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(57.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 464
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[158] (103.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 466
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(2.tex [159])
+Overfull \hbox (0.60837pt too wide) detected at line 468
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(21.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 470
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[160] (161.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 472
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+(37.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 474
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[161] (76.tex)
+Overfull \hbox (0.60837pt too wide) detected at line 476
+$\OMS/cmsy/m/n/10.95  $
+ []
+
+[162]) [163]
+Underfull \hbox (badness 10000) in paragraph at lines 721--722
+
+ []
+
+[164
+
+]
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 736.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 736.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 736.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 736.
+
+runsystem(makeindex -s index_style.ist Book_Op1.idx)...executed (allowed).
+
+(Book_Op1.ind
+LaTeX Font Info:    Try loading font information for OT1+phv on input line 2.
+ ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\psnfss\ot1phv.fd"
+File: ot1phv.fd 2001/06/04 scalable font definitions for OT1/phv.
+)
+LaTeX Font Info:    Font shape `OT1/phv/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/phv/b/n' tried instead on input line 2.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 113.
+
+
+Package Fancyhdr Warning: \fancyhead's `E' option without twoside option is use
+less on input line 113.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 113.
+
+
+Package Fancyhdr Warning: \fancyfoot's `E' option without twoside option is use
+less on input line 113.
+
+
+Package Fancyhdr Warning: \headheight is too small (14.49998pt): 
+ Make it at least 14.97595pt.
+ We now make it that large for the rest of the document.
+ This may cause the page layout to be inconsistent, however.
+
+[165
+
+
+] [166] [167] [168] [169]) [170]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 751.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 751.
+ (Book_Op1.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 751.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 751.
+Package rerunfilecheck Info: File `Book_Op1.out' has not changed.
+(rerunfilecheck)             Checksum: 21D94E9EE43B4F2591388508A7B55C98;36123.
+ ) 
+Here is how much of TeX's memory you used:
+ 20778 strings out of 493357
+ 365563 string characters out of 3137177
+ 583963 words of memory out of 3000000
+ 23080 multiletter control sequences out of 15000+200000
+ 47151 words of font info for 102 fonts, out of 3000000 for 9000
+ 1127 hyphenation exceptions out of 8191
+ 55i,16n,54p,7230b,697s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/marco/AppData/Roaming/MiKTeX/2.9/fonts/enc/dvips/base/8r.enc}<C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Program Files (x8
+6)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Program Files (x86)/M
+iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Program Files (x86)/MiKTeX
+ 2.9/fonts/type1/urw/courier/ucrr8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/font
+s/type1/urw/helvetic/uhvb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/
+urw/times/utmb8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/u
+tmbi8a.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on Book_Op1.pdf (171 pages, 6592505 bytes).
+PDF statistics:
+ 2800 PDF objects out of 2984 (max. 8388607)
+ 208 named destinations out of 1000 (max. 500000)
+ 2091 words of extra memory for PDF output out of 10000 (max. 10000000)
+
